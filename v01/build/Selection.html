@@ -1,0 +1,159 @@
+<html>
+
+    <head>
+        <title>
+            IPL Predictor Machine
+        </title>
+        <link rel="stylesheet" href="Selection.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <div class="content">
+            <h1><img src = assets\Batter_Logo.png id = "bat_logo" align = "center">&nbsp;
+                <font size = "20">IPL Predictor</font>
+            </h1>
+            <font face = "Consolas">
+                    <form action = Selection.php method = "POST">
+                        <table cellspacing = 6 cellpadding = 9>
+                            <tr>
+                                <td>
+                                    Team 1
+                                </td>
+                                <td>
+                                    <select name = "team1" required>
+                                        <option selected hidden value = "">Select Team</option>
+                                        <option value = "CSK">Chennai Super Kings</option>
+                                        <option value = "DC">Delhi Capitals</option>
+                                        <option value = "RCB">Royal Challengers Bangalore</option>
+                                        <option value = "KKR">Kolkata Knight Riders</option>
+                                        <option value = "MI">Mumbai Indians</option>
+                                        <option value = "SRH">Sunrisers Hyderabad</option>
+                                        <option value = "RR">Rajasthan Royals</option>
+                                        <option value = "PBKS">Punjab Kings</option>
+                                        <option hidden value = "">---------------------------</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Team 2
+                                </td>
+                                <td>
+                                    <select name = "team2" required>
+                                        <option selected hidden value = "">Select Team</option>
+                                        <option value = "CSK">Chennai Super Kings</option>
+                                        <option value = "DC">Delhi Capitals</option>
+                                        <option value = "RCB">Royal Challengers Bangalore</option>
+                                        <option value = "KKR">Kolkata Knight Riders</option>
+                                        <option value = "MI">Mumbai Indians</option>
+                                        <option value = "SRH">Sunrisers Hyderabad</option>
+                                        <option value = "RR">Rajasthan Royals</option>
+                                        <option value = "PBKS">Punjab Kings</option>
+                                        <option hidden value = "">---------------------------</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    City Played
+                                </td>
+                                <td>
+                                    <select name = "city" required>
+                                        <option selected hidden value = "">Select City</option>
+                                        <option value = "Abu Dhabi">Abu Dhabi</option>
+                                        <option value = "Ahmedabad">Ahmedabad</option>
+                                        <option value = "Bangalore">Bangalore</option>
+                                        <option value = "Bloemfontein">Bloemfontein</option>
+                                        <option value = "Cape Town">Cape Town</option>
+                                        <option value = "Centurion">Centurion</option>
+                                        <option value = "Chandigarh">Chandigarh</option>
+                                        <option value = "Chennai">Chennai</option>
+                                        <option value = "Cuttack">Cuttack</option>
+                                        <option value = "Delhi">Delhi</option>
+                                        <option value = "Dharamsala">Dharamsala</option>
+                                        <option value = "Dubai">Dubai</option>
+                                        <option value = "East London">East London</option>
+                                        <option value = "Hyderabad">Hyderabad</option>
+                                        <option value = "Indore">Indore</option>
+                                        <option value = "Jaipur">Jaipur</option>
+                                        <option value = "Johannesburg">Johannesburg</option>
+                                        <option value = "Kanpur">Kanpur</option>
+                                        <option value = "Kimberley">Kimberley</option>
+                                        <option value = "Kochi">Kochi</option>
+                                        <option value = "Kolkata">Kolkata</option>
+                                        <option value = "Mumbai">Mumbai</option>
+                                        <option value = "Nagpur">Nagpur</option>
+                                        <option value = "Port Elizabeth">Port Elizabeth</option>
+                                        <option value = "Pune">Pune</option>
+                                        <option value = "Raipur">Raipur</option>
+                                        <option value = "Rajkot">Rajkot</option>
+                                        <option value = "Ranchi">Ranchi</option>
+                                        <option value = "Sharjah">Sharjah</option>
+                                        <option value = "Vishakapatnam">Visakhapatnam</option>
+                                        <option hidden value = "">---------------------------</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Toss Winner
+                                </td>
+                                <td>
+                                        Team 1<input type="radio" name="tosswin" value="team1" />
+                                        Team 2<input type="radio" name="tosswin" value="team2" />
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Machine Learning Algorithm
+                                </td>
+                                <td>
+                                    <select name = "mlalgo" required>
+                                        <option selected hidden value = "">Select ML Algorithm</option>
+                                        <option value = "LinearRegression">Linear Regression</option>
+                                        <option value = "LogisticRegression">Logistic Regression</option>
+                                        <option value = "DecisionTreeClassifier">Decision Tree Classifier</option>
+                                        <option value = "KNNClassifier">KNN Classifier</option>
+                                        <option value = "RandomForest">Random Forest</option>
+                                        <option value = "GaussianNaiveBayes">Gaussian Naive Bayes</option>
+                                        <option hidden value = "">---------------------------</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <table align="center">
+                                <tr>
+                                    <td></td>
+                                    <td><input type = "submit" id = "submit" value = "Predict" name = "submit"></td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </table>
+                    </form>
+        </div>
+        
+        </font>
+        <div class = "footer">
+            <div style = "text-align: center">
+                <span style = " float: left">
+                    &nbsp;&nbsp;Crafted with &#10084;&#65039; by Varun Bhattacharya
+                </span>
+                <span style = "float: right">
+                    Follow me on:
+                    <a href="https://www.instagram.com/varunbhattacharya.in/">
+                        <b style="font-size:17px" class="fa">&#xf16d;</b>
+                    </a>
+                    <a href="https://github.com/VarunBhattacharya">
+                        <b style="font-size:17px" class="fa">&#xf09b;</b>
+                    </a>
+                    &nbsp;&nbsp;
+                </span>
+            </div>
+        </div>
+
+        <script src="Selection.js"></script>
+
+    </body>
+
+</html>

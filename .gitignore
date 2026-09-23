@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+ipl_predictor.db
+
+# Local clone used to import the analysis dataset; its required match data is
+# included separately at data/ipl_matches_2008_2024.csv.
+IPL_DataAnalysis/
+
+# Project presentation and demo media are not needed to run the web app.
+v01/build/pptPresentation/
+v01/build/videoDemo/
+v01/build/assets/Alternative Pictures/

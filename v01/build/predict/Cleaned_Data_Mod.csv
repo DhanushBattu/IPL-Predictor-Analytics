@@ -1,0 +1,877 @@
+Team_1,Team_2,City_Played,Player_of_Match,Venue,Toss_Winner,Toss_Decision,Winner_of_Match,Result
+RCB,KKR,Bangalore,BB McCullum,M Chinnaswamy Stadium,RCB,Field,KKR,Runs
+PBKS,CSK,Chandigarh,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",CSK,Bat,CSK,Runs
+DC,RR,Delhi,MF Maharoof,Feroz Shah Kotla,RR,Bat,DC,Wickets
+MI,RCB,Mumbai,MV Boucher,Wankhede Stadium,MI,Bat,RCB,Wickets
+KKR,Dec_C,Kolkata,DJ Hussey,Eden Gardens,Dec_C,Bat,KKR,Wickets
+RR,PBKS,Jaipur,SR Watson,Sawai Mansingh Stadium,PBKS,Bat,RR,Wickets
+Dec_C,DC,Hyderabad,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Bat,DC,Wickets
+CSK,MI,Chennai,ML Hayden,"MA Chidambaram Stadium, Chepauk",MI,Field,CSK,Runs
+Dec_C,RR,Hyderabad,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",RR,Field,RR,Wickets
+PBKS,MI,Chandigarh,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",MI,Field,PBKS,Runs
+RCB,RR,Bangalore,SR Watson,M Chinnaswamy Stadium,RR,Field,RR,Wickets
+CSK,KKR,Chennai,JDP Oram,"MA Chidambaram Stadium, Chepauk",KKR,Bat,CSK,Wickets
+MI,Dec_C,Mumbai,AC Gilchrist,Dr DY Patil Sports Academy,Dec_C,Field,Dec_C,Wickets
+PBKS,DC,Chandigarh,SM Katich,"Punjab Cricket Association Stadium, Mohali",DC,Bat,PBKS,Wickets
+RCB,CSK,Bangalore,MS Dhoni,M Chinnaswamy Stadium,CSK,Bat,CSK,Runs
+KKR,MI,Kolkata,ST Jayasuriya,Eden Gardens,KKR,Bat,MI,Wickets
+DC,RCB,Delhi,GD McGrath,Feroz Shah Kotla,RCB,Field,DC,Runs
+Dec_C,PBKS,Hyderabad,SE Marsh,"Rajiv Gandhi International Stadium, Uppal",PBKS,Field,PBKS,Wickets
+RR,KKR,Jaipur,SA Asnodkar,Sawai Mansingh Stadium,RR,Bat,RR,Runs
+CSK,DC,Chennai,V Sehwag,"MA Chidambaram Stadium, Chepauk",CSK,Bat,DC,Wickets
+Dec_C,RCB,Hyderabad,R Vinay Kumar,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Bat,RCB,Wickets
+PBKS,KKR,Chandigarh,IK Pathan,"Punjab Cricket Association Stadium, Mohali",PBKS,Bat,PBKS,Runs
+MI,DC,Mumbai,SM Pollock,Dr DY Patil Sports Academy,DC,Field,MI,Runs
+RR,CSK,Jaipur,Sohail Tanvir,Sawai Mansingh Stadium,CSK,Bat,RR,Wickets
+RCB,PBKS,Bangalore,S Sreesanth,M Chinnaswamy Stadium,PBKS,Field,PBKS,Wickets
+CSK,Dec_C,Chennai,AC Gilchrist,"MA Chidambaram Stadium, Chepauk",Dec_C,Field,Dec_C,Wickets
+MI,RR,Mumbai,A Nehra,Dr DY Patil Sports Academy,MI,Field,MI,Wickets
+DC,CSK,Delhi,MS Dhoni,Feroz Shah Kotla,CSK,Field,CSK,Wickets
+KKR,RCB,Kolkata,SC Ganguly,Eden Gardens,KKR,Bat,KKR,Runs
+RR,Dec_C,Jaipur,YK Pathan,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+RCB,MI,Bangalore,CRD Fernando,M Chinnaswamy Stadium,MI,Field,MI,Wickets
+CSK,PBKS,Chennai,L Balaji,"MA Chidambaram Stadium, Chepauk",PBKS,Field,CSK,Runs
+Dec_C,KKR,Hyderabad,SC Ganguly,"Rajiv Gandhi International Stadium, Uppal",KKR,Bat,KKR,Runs
+RR,DC,Jaipur,SR Watson,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+PBKS,RCB,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",RCB,Bat,PBKS,Wickets
+KKR,DC,Kolkata,Shoaib Akhtar,Eden Gardens,KKR,Bat,KKR,Runs
+MI,CSK,Mumbai,ST Jayasuriya,Wankhede Stadium,MI,Field,MI,Wickets
+PBKS,RR,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",RR,Field,PBKS,Runs
+DC,Dec_C,Delhi,A Mishra,Feroz Shah Kotla,Dec_C,Field,DC,Runs
+MI,KKR,Mumbai,SM Pollock,Wankhede Stadium,MI,Field,MI,Wickets
+DC,PBKS,Delhi,DPMD Jayawardene,Feroz Shah Kotla,DC,Bat,PBKS,Runs
+RR,RCB,Jaipur,GC Smith,Sawai Mansingh Stadium,RCB,Field,RR,Runs
+Dec_C,MI,Hyderabad,DJ Bravo,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Field,MI,Runs
+KKR,CSK,Kolkata,M Ntini,Eden Gardens,KKR,Bat,CSK,Runs
+RCB,DC,Bangalore,SP Goswami,M Chinnaswamy Stadium,DC,Field,DC,Wickets
+KKR,RR,Kolkata,YK Pathan,Eden Gardens,RR,Field,RR,Wickets
+MI,PBKS,Mumbai,SE Marsh,Wankhede Stadium,MI,Field,PBKS,Runs
+CSK,RCB,Chennai,A Kumble,"MA Chidambaram Stadium, Chepauk",RCB,Bat,RCB,Runs
+PBKS,Dec_C,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,PBKS,Wickets
+DC,MI,Delhi,KD Karthik,Feroz Shah Kotla,DC,Field,DC,Wickets
+CSK,RR,Chennai,JA Morkel,"MA Chidambaram Stadium, Chepauk",RR,Bat,RR,Runs
+RCB,Dec_C,Bangalore,P Kumar,M Chinnaswamy Stadium,Dec_C,Field,RCB,Runs
+KKR,PBKS,Kolkata,Umar Gul,Eden Gardens,PBKS,Bat,KKR,Wickets
+RR,MI,Jaipur,Sohail Tanvir,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+Dec_C,CSK,Hyderabad,SK Raina,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Bat,CSK,Wickets
+DC,RR,Mumbai,SR Watson,Wankhede Stadium,DC,Field,RR,Runs
+CSK,PBKS,Mumbai,M Ntini,Wankhede Stadium,PBKS,Bat,CSK,Wickets
+CSK,RR,Mumbai,YK Pathan,Dr DY Patil Sports Academy,RR,Field,RR,Wickets
+CSK,MI,Cape Town,SR Tendulkar,Newlands,CSK,Field,MI,Runs
+RCB,RR,Cape Town,R Dravid,Newlands,RCB,Bat,RCB,Runs
+DC,PBKS,Cape Town,DL Vettori,Newlands,DC,Field,DC,Wickets
+Dec_C,KKR,Cape Town,RP Singh,Newlands,KKR,Bat,Dec_C,Wickets
+RCB,CSK,Port Elizabeth,M Muralitharan,St George's Park,CSK,Bat,CSK,Runs
+PBKS,KKR,Durban,CH Gayle,Kingsmead,KKR,Field,KKR,Runs
+RCB,Dec_C,Cape Town,AC Gilchrist,Newlands,Dec_C,Bat,Dec_C,Runs
+CSK,DC,Durban,AB de Villiers,Kingsmead,DC,Bat,DC,Runs
+KKR,RR,Cape Town,YK Pathan,Newlands,KKR,Field,RR,Tie
+RCB,PBKS,Durban,RS Bopara,Kingsmead,RCB,Bat,PBKS,Wickets
+Dec_C,MI,Durban,PP Ojha,Kingsmead,Dec_C,Bat,Dec_C,Runs
+RCB,DC,Port Elizabeth,TM Dilshan,St George's Park,RCB,Bat,DC,Wickets
+PBKS,RR,Cape Town,KC Sangakkara,Newlands,PBKS,Bat,PBKS,Runs
+CSK,Dec_C,Durban,HH Gibbs,Kingsmead,Dec_C,Field,Dec_C,Wickets
+KKR,MI,Port Elizabeth,SR Tendulkar,St George's Park,MI,Bat,MI,Runs
+DC,RR,Centurion,YK Pathan,SuperSport Park,DC,Bat,RR,Wickets
+RCB,KKR,Durban,MV Boucher,Kingsmead,KKR,Bat,RCB,Wickets
+PBKS,MI,Durban,KC Sangakkara,Kingsmead,PBKS,Bat,PBKS,Runs
+Dec_C,DC,Centurion,DP Nannes,SuperSport Park,DC,Field,DC,Wickets
+CSK,RR,Centurion,SK Raina,SuperSport Park,RR,Field,CSK,Runs
+KKR,MI,East London,JP Duminy,Buffalo Park,MI,Bat,MI,Runs
+RCB,PBKS,Durban,Yuvraj Singh,Kingsmead,RCB,Bat,RCB,Runs
+Dec_C,RR,Port Elizabeth,YK Pathan,St George's Park,Dec_C,Bat,RR,Wickets
+CSK,DC,Johannesburg,SB Jakati,New Wanderers Stadium,DC,Field,CSK,Runs
+PBKS,KKR,Port Elizabeth,DPMD Jayawardene,St George's Park,KKR,Bat,PBKS,Wickets
+RCB,MI,Johannesburg,JH Kallis,New Wanderers Stadium,MI,Bat,RCB,Wickets
+CSK,Dec_C,East London,MS Dhoni,Buffalo Park,CSK,Bat,CSK,Runs
+PBKS,RR,Durban,GC Smith,Kingsmead,PBKS,Field,RR,Runs
+DC,KKR,Durban,G Gambhir,Kingsmead,KKR,Bat,DC,Wickets
+Dec_C,MI,Centurion,RG Sharma,SuperSport Park,Dec_C,Bat,Dec_C,Runs
+RCB,RR,Centurion,A Singh,SuperSport Park,RR,Field,RR,Wickets
+CSK,PBKS,Centurion,ML Hayden,SuperSport Park,CSK,Bat,CSK,Runs
+DC,MI,East London,A Nehra,Buffalo Park,MI,Bat,DC,Wickets
+Dec_C,PBKS,Kimberley,DPMD Jayawardene,De Beers Diamond Oval,PBKS,Field,PBKS,Wickets
+CSK,RR,Kimberley,S Badrinath,De Beers Diamond Oval,RR,Bat,CSK,Wickets
+RCB,MI,Port Elizabeth,JP Duminy,St George's Park,MI,Bat,MI,Runs
+DC,KKR,Johannesburg,A Mishra,New Wanderers Stadium,DC,Field,DC,Wickets
+Dec_C,RR,Kimberley,DR Smith,De Beers Diamond Oval,Dec_C,Bat,Dec_C,Runs
+RCB,KKR,Centurion,LRPL Taylor,SuperSport Park,RCB,Field,RCB,Wickets
+PBKS,MI,Centurion,Harbhajan Singh,SuperSport Park,PBKS,Bat,MI,Wickets
+Dec_C,DC,Durban,R Bhatia,Kingsmead,Dec_C,Field,DC,Runs
+RCB,CSK,Durban,LRPL Taylor,Kingsmead,CSK,Bat,RCB,Wickets
+MI,RR,Durban,SK Warne,Kingsmead,RR,Bat,RR,Runs
+DC,PBKS,Bloemfontein,B Lee,OUTsurance Oval,PBKS,Field,PBKS,Wickets
+CSK,MI,Port Elizabeth,ML Hayden,St George's Park,MI,Bat,CSK,Wickets
+Dec_C,KKR,Johannesburg,RG Sharma,New Wanderers Stadium,Dec_C,Field,Dec_C,Wickets
+Dec_C,PBKS,Johannesburg,Yuvraj Singh,New Wanderers Stadium,Dec_C,Field,PBKS,Runs
+DC,RR,Bloemfontein,AB de Villiers,OUTsurance Oval,DC,Bat,DC,Runs
+CSK,KKR,Centurion,BJ Hodge,SuperSport Park,CSK,Bat,KKR,Wickets
+RCB,DC,Johannesburg,JH Kallis,New Wanderers Stadium,DC,Bat,RCB,Wickets
+KKR,RR,Durban,LR Shukla,Kingsmead,KKR,Field,KKR,Wickets
+CSK,PBKS,Durban,M Muralitharan,Kingsmead,CSK,Bat,CSK,Runs
+DC,MI,Centurion,V Sehwag,SuperSport Park,DC,Field,DC,Wickets
+RCB,Dec_C,Centurion,MK Pandey,SuperSport Park,RCB,Bat,RCB,Runs
+DC,Dec_C,Centurion,AC Gilchrist,SuperSport Park,Dec_C,Field,Dec_C,Wickets
+RCB,CSK,Johannesburg,MK Pandey,New Wanderers Stadium,RCB,Field,RCB,Wickets
+RCB,Dec_C,Johannesburg,A Kumble,New Wanderers Stadium,RCB,Field,Dec_C,Runs
+Dec_C,KKR,Mumbai,AD Mathews,Dr DY Patil Sports Academy,Dec_C,Field,KKR,Runs
+MI,RR,Mumbai,YK Pathan,Brabourne Stadium,MI,Bat,MI,Runs
+PBKS,DC,Chandigarh,G Gambhir,"Punjab Cricket Association Stadium, Mohali",DC,Field,DC,Wickets
+KKR,RCB,Kolkata,MK Tiwary,Eden Gardens,KKR,Field,KKR,Wickets
+CSK,Dec_C,Chennai,WPUJC Vaas,"MA Chidambaram Stadium, Chepauk",Dec_C,Bat,Dec_C,Runs
+RR,DC,Ahmedabad,V Sehwag,"Sardar Patel Stadium, Motera",DC,Field,DC,Wickets
+RCB,PBKS,Bangalore,JH Kallis,M Chinnaswamy Stadium,PBKS,Bat,RCB,Wickets
+KKR,CSK,Kolkata,MS Dhoni,Eden Gardens,CSK,Bat,CSK,Runs
+DC,MI,Delhi,SR Tendulkar,Feroz Shah Kotla,DC,Field,MI,Runs
+RCB,RR,Bangalore,JH Kallis,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+DC,CSK,Delhi,ML Hayden,Feroz Shah Kotla,DC,Bat,CSK,Wickets
+Dec_C,PBKS,Cuttack,A Symonds,Barabati Stadium,PBKS,Field,Dec_C,Runs
+RR,KKR,Ahmedabad,AA Jhunjhunwala,"Sardar Patel Stadium, Motera",RR,Bat,RR,Runs
+MI,RCB,Mumbai,JH Kallis,Brabourne Stadium,MI,Bat,RCB,Wickets
+Dec_C,DC,Cuttack,A Symonds,Barabati Stadium,Dec_C,Bat,Dec_C,Runs
+CSK,PBKS,Chennai,J Theron,"MA Chidambaram Stadium, Chepauk",CSK,Field,PBKS,Tie
+MI,KKR,Mumbai,SR Tendulkar,Brabourne Stadium,KKR,Bat,MI,Wickets
+RCB,CSK,Bangalore,RV Uthappa,M Chinnaswamy Stadium,CSK,Field,RCB,Runs
+PBKS,RR,Chandigarh,AC Voges,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,RR,Runs
+MI,CSK,Mumbai,SR Tendulkar,Brabourne Stadium,MI,Field,MI,Wickets
+RR,Dec_C,Ahmedabad,YK Pathan,"Sardar Patel Stadium, Motera",Dec_C,Bat,RR,Wickets
+PBKS,KKR,Chandigarh,MK Tiwary,"Punjab Cricket Association Stadium, Mohali",KKR,Bat,KKR,Runs
+RCB,DC,Bangalore,KM Jadhav,M Chinnaswamy Stadium,RCB,Field,DC,Runs
+RR,CSK,Ahmedabad,NV Ojha,"Sardar Patel Stadium, Motera",RR,Bat,RR,Runs
+Dec_C,MI,Mumbai,Harbhajan Singh,Dr DY Patil Sports Academy,Dec_C,Field,MI,Runs
+DC,KKR,Delhi,DA Warner,Feroz Shah Kotla,DC,Bat,DC,Runs
+MI,PBKS,Mumbai,SL Malinga,Brabourne Stadium,MI,Field,MI,Wickets
+CSK,RCB,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",RCB,Bat,CSK,Wickets
+DC,RR,Delhi,KD Karthik,Feroz Shah Kotla,DC,Bat,DC,Runs
+KKR,Dec_C,Kolkata,SC Ganguly,Eden Gardens,KKR,Bat,KKR,Runs
+PBKS,RCB,Chandigarh,KP Pietersen,"Punjab Cricket Association Stadium, Mohali",PBKS,Bat,RCB,Wickets
+CSK,RR,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+MI,Dec_C,Mumbai,AT Rayudu,Brabourne Stadium,MI,Bat,MI,Runs
+KKR,PBKS,Kolkata,DPMD Jayawardene,Eden Gardens,KKR,Bat,PBKS,Wickets
+DC,RCB,Delhi,PD Collingwood,Feroz Shah Kotla,DC,Bat,DC,Runs
+Dec_C,RR,Nagpur,SK Warne,"Vidarbha Cricket Association Stadium, Jamtha",RR,Bat,RR,Runs
+CSK,MI,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+RR,PBKS,Jaipur,MJ Lumb,Sawai Mansingh Stadium,PBKS,Bat,RR,Wickets
+KKR,DC,Kolkata,SC Ganguly,Eden Gardens,KKR,Bat,KKR,Runs
+RCB,Dec_C,Bangalore,TL Suman,M Chinnaswamy Stadium,Dec_C,Field,Dec_C,Wickets
+PBKS,MI,Chandigarh,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",MI,Bat,PBKS,Wickets
+Dec_C,CSK,Nagpur,RJ Harris,"Vidarbha Cricket Association Stadium, Jamtha",CSK,Bat,Dec_C,Wickets
+RCB,KKR,Bangalore,R Vinay Kumar,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+DC,PBKS,Delhi,PP Chawla,Feroz Shah Kotla,DC,Bat,PBKS,Wickets
+RR,MI,Jaipur,SR Tendulkar,Sawai Mansingh Stadium,RR,Field,MI,Runs
+Dec_C,RCB,Nagpur,Harmeet Singh,"Vidarbha Cricket Association Stadium, Jamtha",RCB,Field,Dec_C,Runs
+MI,DC,Mumbai,KA Pollard,Brabourne Stadium,MI,Bat,MI,Runs
+CSK,KKR,Chennai,R Ashwin,"MA Chidambaram Stadium, Chepauk",KKR,Bat,CSK,Wickets
+RR,RCB,Jaipur,KP Pietersen,Sawai Mansingh Stadium,RR,Bat,RCB,Wickets
+CSK,DC,Chennai,G Gambhir,"MA Chidambaram Stadium, Chepauk",CSK,Bat,DC,Wickets
+PBKS,Dec_C,Dharamsala,RG Sharma,Himachal Pradesh Cricket Association Stadium,Dec_C,Field,Dec_C,Wickets
+RCB,MI,Bangalore,R McLaren,M Chinnaswamy Stadium,RCB,Field,MI,Runs
+KKR,RR,Kolkata,JD Unadkat,Eden Gardens,RR,Bat,KKR,Wickets
+PBKS,CSK,Dharamsala,MS Dhoni,Himachal Pradesh Cricket Association Stadium,CSK,Field,CSK,Wickets
+DC,Dec_C,Delhi,A Symonds,Feroz Shah Kotla,Dec_C,Bat,Dec_C,Runs
+KKR,MI,Kolkata,M Kartik,Eden Gardens,MI,Bat,KKR,Wickets
+RCB,MI,Mumbai,KA Pollard,Dr DY Patil Sports Academy,MI,Bat,MI,Runs
+CSK,Dec_C,Mumbai,DE Bollinger,Dr DY Patil Sports Academy,CSK,Bat,CSK,Runs
+RCB,Dec_C,Mumbai,A Kumble,Dr DY Patil Sports Academy,Dec_C,Bat,RCB,Wickets
+CSK,MI,Mumbai,SK Raina,Dr DY Patil Sports Academy,CSK,Bat,CSK,Runs
+CSK,KKR,Chennai,S Anirudha,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+Dec_C,RR,Hyderabad,SK Trivedi,"Rajiv Gandhi International Stadium, Uppal",RR,Field,RR,Wickets
+KTK,RCB,Kochi,AB de Villiers,Nehru Stadium,KTK,Bat,RCB,Wickets
+DC,MI,Delhi,SL Malinga,Feroz Shah Kotla,DC,Bat,MI,Wickets
+PW,PBKS,Mumbai,SB Wagh,Dr DY Patil Sports Academy,PBKS,Bat,PW,Wickets
+KKR,Dec_C,Kolkata,JH Kallis,Eden Gardens,KKR,Bat,KKR,Runs
+RR,DC,Jaipur,SK Warne,Sawai Mansingh Stadium,DC,Bat,RR,Wickets
+RCB,MI,Bangalore,SR Tendulkar,M Chinnaswamy Stadium,MI,Field,MI,Wickets
+PBKS,CSK,Chandigarh,PC Valthaty,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,PBKS,Wickets
+PW,KTK,Mumbai,MD Mishra,Dr DY Patil Sports Academy,KTK,Bat,PW,Wickets
+Dec_C,RCB,Hyderabad,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",RCB,Field,Dec_C,Runs
+RR,KKR,Jaipur,G Gambhir,Sawai Mansingh Stadium,KKR,Field,KKR,Wickets
+MI,KTK,Mumbai,BB McCullum,Wankhede Stadium,KTK,Field,KTK,Wickets
+CSK,RCB,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+Dec_C,PBKS,Hyderabad,PC Valthaty,"Rajiv Gandhi International Stadium, Uppal",PBKS,Field,PBKS,Wickets
+PW,DC,Mumbai,Yuvraj Singh,Dr DY Patil Sports Academy,DC,Field,DC,Wickets
+KKR,RR,Kolkata,L Balaji,Eden Gardens,KKR,Field,KKR,Wickets
+KTK,CSK,Kochi,BB McCullum,Nehru Stadium,KTK,Field,KTK,Wickets
+DC,Dec_C,Delhi,S Sohal,Feroz Shah Kotla,Dec_C,Bat,Dec_C,Runs
+MI,PW,Mumbai,MM Patel,Wankhede Stadium,PW,Bat,MI,Wickets
+KKR,KTK,Kolkata,DPMD Jayawardene,Eden Gardens,KKR,Field,KTK,Runs
+PBKS,RR,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",RR,Field,PBKS,Runs
+MI,CSK,Mumbai,Harbhajan Singh,Wankhede Stadium,CSK,Field,MI,Runs
+KKR,RCB,Kolkata,CH Gayle,Eden Gardens,RCB,Field,RCB,Wickets
+DC,PBKS,Delhi,DA Warner,Feroz Shah Kotla,PBKS,Field,DC,Runs
+Dec_C,MI,Hyderabad,SL Malinga,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Field,MI,Runs
+RR,KTK,Jaipur,SK Warne,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+CSK,PW,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",PW,Field,CSK,Runs
+DC,RCB,Delhi,V Kohli,Feroz Shah Kotla,RCB,Field,RCB,Wickets
+PW,CSK,Mumbai,DE Bollinger,Dr DY Patil Sports Academy,PW,Bat,CSK,Wickets
+KTK,Dec_C,Kochi,I Sharma,Nehru Stadium,KTK,Field,Dec_C,Runs
+DC,KKR,Delhi,MK Tiwary,Feroz Shah Kotla,DC,Field,KKR,Runs
+RR,MI,Jaipur,J Botha,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+RCB,PW,Bangalore,V Kohli,M Chinnaswamy Stadium,PW,Field,RCB,Runs
+KTK,DC,Kochi,V Sehwag,Nehru Stadium,DC,Bat,DC,Runs
+KKR,PBKS,Kolkata,Iqbal Abdulla,Eden Gardens,KKR,Field,KKR,Wickets
+RR,PW,Jaipur,LRPL Taylor,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+CSK,Dec_C,Chennai,JA Morkel,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+MI,PBKS,Mumbai,KA Pollard,Wankhede Stadium,PBKS,Field,MI,Runs
+DC,KTK,Delhi,P Parameswaran,Feroz Shah Kotla,KTK,Field,KTK,Wickets
+Dec_C,KKR,Hyderabad,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Field,KKR,Runs
+CSK,RR,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",RR,Bat,CSK,Wickets
+PW,MI,Mumbai,R Sharma,Dr DY Patil Sports Academy,PW,Field,MI,Runs
+KTK,KKR,Kochi,BJ Hodge,Nehru Stadium,KKR,Field,KTK,Runs
+Dec_C,DC,Hyderabad,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",DC,Field,DC,Wickets
+RCB,PBKS,Bangalore,CH Gayle,M Chinnaswamy Stadium,PBKS,Field,RCB,Runs
+KKR,CSK,Kolkata,Iqbal Abdulla,Eden Gardens,CSK,Bat,KKR,Runs
+MI,DC,Mumbai,AT Rayudu,Wankhede Stadium,DC,Field,MI,Runs
+RCB,KTK,Bangalore,CH Gayle,M Chinnaswamy Stadium,KTK,Bat,RCB,Wickets
+PBKS,PW,Chandigarh,R Sharma,"Punjab Cricket Association Stadium, Mohali",PBKS,Bat,PW,Wickets
+RR,CSK,Jaipur,M Vijay,Sawai Mansingh Stadium,RR,Field,CSK,Runs
+Dec_C,PW,Hyderabad,MR Marsh,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Bat,PW,Wickets
+PBKS,MI,Chandigarh,BA Bhatt,"Punjab Cricket Association Stadium, Mohali",MI,Field,PBKS,Runs
+RR,RCB,Jaipur,S Aravind,Sawai Mansingh Stadium,RCB,Field,RCB,Wickets
+CSK,DC,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+KTK,PBKS,Indore,KD Karthik,Holkar Cricket Stadium,PBKS,Field,PBKS,Wickets
+RCB,KKR,Bangalore,CH Gayle,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+MI,Dec_C,Mumbai,A Mishra,Wankhede Stadium,Dec_C,Bat,Dec_C,Runs
+PBKS,DC,Dharamsala,PP Chawla,Himachal Pradesh Cricket Association Stadium,DC,Field,PBKS,Runs
+KTK,RR,Indore,BJ Hodge,Holkar Cricket Stadium,KTK,Field,KTK,Wickets
+PW,Dec_C,Mumbai,A Mishra,Dr DY Patil Sports Academy,Dec_C,Field,Dec_C,Wickets
+PBKS,RCB,Dharamsala,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,PBKS,Bat,PBKS,Runs
+CSK,KTK,Chennai,WP Saha,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+PW,KKR,Mumbai,YK Pathan,Dr DY Patil Sports Academy,KKR,Field,KKR,Wickets
+MI,RR,Mumbai,SR Watson,Wankhede Stadium,MI,Bat,RR,Wickets
+PBKS,Dec_C,Dharamsala,S Dhawan,Himachal Pradesh Cricket Association Stadium,PBKS,Field,Dec_C,Runs
+DC,PW,Delhi,NA,Feroz Shah Kotla,DC,Bat,NA,NA
+RCB,CSK,Bangalore,CH Gayle,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+KKR,MI,Kolkata,JEC Franklin,Eden Gardens,MI,Field,MI,Wickets
+RCB,CSK,Mumbai,SK Raina,Wankhede Stadium,CSK,Field,CSK,Wickets
+MI,KKR,Mumbai,MM Patel,Wankhede Stadium,MI,Field,MI,Wickets
+RCB,MI,Chennai,CH Gayle,"MA Chidambaram Stadium, Chepauk",MI,Field,RCB,Runs
+CSK,RCB,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+CSK,MI,Chennai,RE Levi,"MA Chidambaram Stadium, Chepauk",MI,Field,MI,Wickets
+KKR,DC,Kolkata,IK Pathan,Eden Gardens,DC,Field,DC,Wickets
+MI,PW,Mumbai,SPD Smith,Wankhede Stadium,MI,Field,PW,Runs
+RR,PBKS,Jaipur,AM Rahane,Sawai Mansingh Stadium,PBKS,Field,RR,Runs
+RCB,DC,Bangalore,AB de Villiers,M Chinnaswamy Stadium,DC,Field,RCB,Runs
+Dec_C,CSK,Visakhapatnam,RA Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Dec_C,Field,CSK,Runs
+RR,KKR,Jaipur,BJ Hodge,Sawai Mansingh Stadium,KKR,Field,RR,Runs
+PW,PBKS,Pune,MN Samuels,Subrata Roy Sahara Stadium,PW,Bat,PW,Runs
+Dec_C,MI,Visakhapatnam,RG Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Dec_C,Bat,MI,Wickets
+RCB,KKR,Bangalore,L Balaji,M Chinnaswamy Stadium,RCB,Field,KKR,Runs
+DC,CSK,Delhi,M Morkel,Feroz Shah Kotla,DC,Field,DC,Wickets
+MI,RR,Mumbai,KA Pollard,Wankhede Stadium,RR,Field,MI,Runs
+CSK,RCB,Chennai,F du Plessis,"MA Chidambaram Stadium, Chepauk",RCB,Bat,CSK,Wickets
+PBKS,PW,Chandigarh,AD Mascarenhas,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,PBKS,Wickets
+KKR,RR,Kolkata,Shakib Al Hasan,Eden Gardens,RR,Bat,KKR,Wickets
+DC,Dec_C,Delhi,KP Pietersen,Feroz Shah Kotla,Dec_C,Bat,DC,Wickets
+PW,CSK,Pune,JD Ryder,Subrata Roy Sahara Stadium,CSK,Bat,PW,Wickets
+KKR,PBKS,Kolkata,SP Narine,Eden Gardens,KKR,Field,PBKS,Runs
+RCB,RR,Bangalore,AM Rahane,M Chinnaswamy Stadium,RR,Bat,RR,Runs
+MI,DC,Mumbai,S Nadeem,Wankhede Stadium,DC,Field,DC,Wickets
+RR,Dec_C,Jaipur,BJ Hodge,Sawai Mansingh Stadium,Dec_C,Bat,RR,Wickets
+RCB,PW,Bangalore,CH Gayle,M Chinnaswamy Stadium,PW,Bat,RCB,Wickets
+PBKS,KKR,Chandigarh,G Gambhir,"Punjab Cricket Association Stadium, Mohali",PBKS,Bat,KKR,Wickets
+Dec_C,DC,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Bat,DC,Wickets
+CSK,PW,Chennai,KMDN Kulasekara,"MA Chidambaram Stadium, Chepauk",PW,Field,CSK,Runs
+PBKS,RCB,Chandigarh,CH Gayle,"Punjab Cricket Association Stadium, Mohali",RCB,Field,RCB,Wickets
+CSK,RR,Chennai,F du Plessis,"MA Chidambaram Stadium, Chepauk",RR,Bat,CSK,Wickets
+DC,PW,Delhi,SC Ganguly,Feroz Shah Kotla,DC,Field,PW,Runs
+MI,PBKS,Mumbai,SE Marsh,Wankhede Stadium,MI,Bat,PBKS,Wickets
+Dec_C,KKR,Cuttack,B Lee,Barabati Stadium,KKR,Field,KKR,Wickets
+RR,RCB,Jaipur,AB de Villiers,Sawai Mansingh Stadium,RR,Field,RCB,Runs
+PW,DC,Pune,V Sehwag,Subrata Roy Sahara Stadium,PW,Bat,DC,Wickets
+PBKS,MI,Chandigarh,AT Rayudu,"Punjab Cricket Association Stadium, Mohali",PBKS,Bat,MI,Wickets
+PW,Dec_C,Pune,CL White,Subrata Roy Sahara Stadium,Dec_C,Bat,Dec_C,Runs
+DC,MI,Delhi,V Sehwag,Feroz Shah Kotla,MI,Field,DC,Runs
+CSK,PBKS,Chennai,Mandeep Singh,"MA Chidambaram Stadium, Chepauk",PBKS,Bat,PBKS,Runs
+KKR,RCB,Kolkata,G Gambhir,Eden Gardens,KKR,Bat,KKR,Runs
+DC,RR,Delhi,V Sehwag,Feroz Shah Kotla,DC,Bat,DC,Runs
+MI,Dec_C,Mumbai,DW Steyn,Wankhede Stadium,MI,Field,MI,Wickets
+CSK,KKR,Chennai,G Gambhir,"MA Chidambaram Stadium, Chepauk",CSK,Bat,KKR,Wickets
+Dec_C,PW,Cuttack,KC Sangakkara,Barabati Stadium,Dec_C,Bat,Dec_C,Runs
+RR,DC,Jaipur,P Negi,Sawai Mansingh Stadium,RR,Bat,DC,Wickets
+RCB,PBKS,Bangalore,Azhar Mahmood,M Chinnaswamy Stadium,PBKS,Field,PBKS,Wickets
+PW,MI,Pune,SL Malinga,Subrata Roy Sahara Stadium,MI,Bat,MI,Runs
+CSK,Dec_C,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+KKR,PW,Kolkata,SP Narine,Eden Gardens,KKR,Bat,KKR,Runs
+PBKS,RR,Chandigarh,SR Watson,"Punjab Cricket Association Stadium, Mohali",RR,Bat,RR,Runs
+MI,CSK,Mumbai,DR Smith,Wankhede Stadium,MI,Field,MI,Wickets
+RCB,Dec_C,Bangalore,AB de Villiers,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+DC,KKR,Delhi,JH Kallis,Feroz Shah Kotla,DC,Bat,KKR,Wickets
+PW,RR,Pune,SR Watson,Subrata Roy Sahara Stadium,PW,Bat,RR,Wickets
+Dec_C,PBKS,Hyderabad,Mandeep Singh,"Rajiv Gandhi International Stadium, Uppal",Dec_C,Field,PBKS,Runs
+MI,RCB,Mumbai,CH Gayle,Wankhede Stadium,RCB,Field,RCB,Wickets
+RR,CSK,Jaipur,BW Hilfenhaus,Sawai Mansingh Stadium,CSK,Field,CSK,Wickets
+PW,RCB,Pune,CH Gayle,Subrata Roy Sahara Stadium,PW,Field,RCB,Runs
+KKR,MI,Kolkata,RG Sharma,Eden Gardens,MI,Bat,MI,Runs
+CSK,DC,Chennai,BW Hilfenhaus,"MA Chidambaram Stadium, Chepauk",CSK,Field,CSK,Wickets
+RR,PW,Jaipur,A Chandila,Sawai Mansingh Stadium,RR,Bat,RR,Runs
+PBKS,Dec_C,Chandigarh,DJ Hussey,"Punjab Cricket Association Stadium, Mohali",Dec_C,Bat,PBKS,Wickets
+RCB,MI,Bangalore,AT Rayudu,M Chinnaswamy Stadium,MI,Field,MI,Wickets
+KKR,CSK,Kolkata,MEK Hussey,Eden Gardens,CSK,Field,CSK,Wickets
+DC,PBKS,Delhi,UT Yadav,Feroz Shah Kotla,PBKS,Bat,DC,Wickets
+MI,KKR,Mumbai,SP Narine,Wankhede Stadium,MI,Field,KKR,Runs
+PBKS,CSK,Dharamsala,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,PBKS,Field,PBKS,Wickets
+DC,RCB,Delhi,CH Gayle,Feroz Shah Kotla,DC,Field,RCB,Runs
+Dec_C,RR,Hyderabad,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",RR,Bat,Dec_C,Wickets
+PBKS,DC,Dharamsala,UT Yadav,Himachal Pradesh Cricket Association Stadium,DC,Field,DC,Wickets
+PW,KKR,Pune,Shakib Al Hasan,Subrata Roy Sahara Stadium,KKR,Bat,KKR,Runs
+Dec_C,RCB,Hyderabad,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",RCB,Field,Dec_C,Runs
+RR,MI,Jaipur,DR Smith,Sawai Mansingh Stadium,RR,Bat,MI,Wickets
+DC,KKR,Pune,YK Pathan,Subrata Roy Sahara Stadium,KKR,Bat,KKR,Runs
+CSK,MI,Bangalore,MS Dhoni,M Chinnaswamy Stadium,MI,Field,CSK,Runs
+DC,CSK,Chennai,M Vijay,"MA Chidambaram Stadium, Chepauk",DC,Field,CSK,Runs
+KKR,CSK,Chennai,MS Bisla,"MA Chidambaram Stadium, Chepauk",CSK,Bat,KKR,Wickets
+KKR,DC,Kolkata,SP Narine,Eden Gardens,KKR,Field,KKR,Wickets
+RCB,MI,Bangalore,CH Gayle,M Chinnaswamy Stadium,MI,Field,RCB,Runs
+SRH,PW,Hyderabad,A Mishra,"Rajiv Gandhi International Stadium, Uppal",PW,Field,SRH,Runs
+DC,RR,Delhi,R Dravid,Feroz Shah Kotla,RR,Bat,RR,Runs
+CSK,MI,Chennai,KA Pollard,"MA Chidambaram Stadium, Chepauk",MI,Bat,MI,Runs
+PW,PBKS,Pune,M Vohra,Subrata Roy Sahara Stadium,PW,Bat,PBKS,Wickets
+SRH,RCB,Hyderabad,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",RCB,Bat,SRH,Tie
+RR,KKR,Jaipur,SK Trivedi,Sawai Mansingh Stadium,KKR,Field,RR,Runs
+MI,DC,Mumbai,KD Karthik,Wankhede Stadium,MI,Bat,MI,Runs
+PBKS,CSK,Chandigarh,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",CSK,Field,CSK,Wickets
+RCB,KKR,Bangalore,CH Gayle,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+PW,RR,Pune,AJ Finch,Subrata Roy Sahara Stadium,RR,Bat,PW,Wickets
+DC,SRH,Delhi,A Mishra,Feroz Shah Kotla,DC,Bat,SRH,Wickets
+MI,PW,Mumbai,RG Sharma,Wankhede Stadium,MI,Bat,MI,Runs
+CSK,RCB,Chennai,RA Jadeja,"MA Chidambaram Stadium, Chepauk",CSK,Field,CSK,Wickets
+KKR,SRH,Kolkata,G Gambhir,Eden Gardens,KKR,Bat,KKR,Runs
+RR,PBKS,Jaipur,JP Faulkner,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+CSK,PW,Chennai,SPD Smith,"MA Chidambaram Stadium, Chepauk",PW,Bat,PW,Runs
+PBKS,KKR,Chandigarh,MS Gony,"Punjab Cricket Association Stadium, Mohali",KKR,Field,PBKS,Runs
+RCB,DC,Bangalore,V Kohli,M Chinnaswamy Stadium,RCB,Field,RCB,Tie
+PW,SRH,Pune,A Mishra,Subrata Roy Sahara Stadium,PW,Field,SRH,Runs
+RR,MI,Jaipur,AM Rahane,Sawai Mansingh Stadium,RR,Bat,RR,Runs
+DC,CSK,Delhi,MEK Hussey,Feroz Shah Kotla,CSK,Bat,CSK,Runs
+SRH,PBKS,Hyderabad,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",PBKS,Bat,SRH,Wickets
+KKR,CSK,Kolkata,RA Jadeja,Eden Gardens,KKR,Bat,CSK,Wickets
+RCB,RR,Bangalore,R Vinay Kumar,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+DC,MI,Delhi,V Sehwag,Feroz Shah Kotla,MI,Bat,DC,Wickets
+PBKS,PW,Chandigarh,DA Miller,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,PBKS,Wickets
+CSK,RR,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",RR,Bat,CSK,Wickets
+RCB,PW,Bangalore,CH Gayle,M Chinnaswamy Stadium,PW,Field,RCB,Runs
+PBKS,DC,Dharamsala,DA Miller,Himachal Pradesh Cricket Association Stadium,DC,Field,PBKS,Runs
+KKR,MI,Kolkata,DR Smith,Eden Gardens,KKR,Bat,MI,Wickets
+CSK,SRH,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",SRH,Bat,CSK,Wickets
+KKR,PBKS,Kolkata,JH Kallis,Eden Gardens,PBKS,Bat,KKR,Wickets
+RR,SRH,Jaipur,JP Faulkner,Sawai Mansingh Stadium,SRH,Bat,RR,Wickets
+MI,RCB,Mumbai,DR Smith,Wankhede Stadium,MI,Bat,MI,Runs
+CSK,KKR,Chennai,MEK Hussey,"MA Chidambaram Stadium, Chepauk",KKR,Field,CSK,Runs
+DC,PW,Raipur,DA Warner,Shaheed Veer Narayan Singh International Stadium,PW,Field,DC,Runs
+RR,RCB,Jaipur,SV Samson,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+MI,PBKS,Mumbai,RG Sharma,Wankhede Stadium,MI,Bat,MI,Runs
+PW,CSK,Pune,MS Dhoni,Subrata Roy Sahara Stadium,CSK,Bat,CSK,Runs
+SRH,MI,Hyderabad,I Sharma,"Rajiv Gandhi International Stadium, Uppal",MI,Bat,SRH,Wickets
+DC,KKR,Raipur,DA Warner,Shaheed Veer Narayan Singh International Stadium,KKR,Bat,DC,Wickets
+CSK,PBKS,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+PW,RCB,Pune,AB de Villiers,Subrata Roy Sahara Stadium,RCB,Bat,RCB,Runs
+KKR,RR,Kolkata,YK Pathan,Eden Gardens,RR,Bat,KKR,Wickets
+SRH,DC,Hyderabad,DJG Sammy,"Rajiv Gandhi International Stadium, Uppal",DC,Bat,SRH,Wickets
+RCB,PBKS,Bangalore,AC Gilchrist,M Chinnaswamy Stadium,PBKS,Field,PBKS,Wickets
+MI,CSK,Mumbai,MG Johnson,Wankhede Stadium,MI,Bat,MI,Runs
+RR,PW,Jaipur,AM Rahane,Sawai Mansingh Stadium,PW,Bat,RR,Wickets
+RCB,SRH,Bangalore,V Kohli,M Chinnaswamy Stadium,SRH,Bat,RCB,Wickets
+RR,DC,Jaipur,AM Rahane,Sawai Mansingh Stadium,DC,Bat,RR,Wickets
+MI,KKR,Mumbai,SR Tendulkar,Wankhede Stadium,MI,Bat,MI,Runs
+SRH,CSK,Hyderabad,SK Raina,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,CSK,Runs
+PBKS,RR,Chandigarh,KK Cooper,"Punjab Cricket Association Stadium, Mohali",RR,Field,RR,Wickets
+PW,KKR,Pune,G Gambhir,Subrata Roy Sahara Stadium,KKR,Bat,KKR,Runs
+DC,RCB,Delhi,JD Unadkat,Feroz Shah Kotla,DC,Field,RCB,Runs
+PW,MI,Pune,MG Johnson,Subrata Roy Sahara Stadium,PW,Bat,MI,Wickets
+PBKS,SRH,Chandigarh,PA Patel,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,SRH,Runs
+KKR,RCB,Ranchi,JH Kallis,JSCA International Stadium Complex,KKR,Field,KKR,Wickets
+RR,CSK,Jaipur,SR Watson,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+DC,PBKS,Delhi,Harmeet Singh,Feroz Shah Kotla,PBKS,Field,PBKS,Wickets
+MI,SRH,Mumbai,KA Pollard,Wankhede Stadium,SRH,Bat,MI,Wickets
+KKR,PW,Ranchi,MK Pandey,JSCA International Stadium Complex,KKR,Field,PW,Runs
+CSK,DC,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+MI,RR,Mumbai,AP Tare,Wankhede Stadium,RR,Field,MI,Runs
+PBKS,RCB,Chandigarh,DA Miller,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,PBKS,Wickets
+SRH,RR,Hyderabad,A Mishra,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,SRH,Runs
+PBKS,MI,Dharamsala,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium,MI,Field,PBKS,Runs
+PW,DC,Pune,LJ Wright,Subrata Roy Sahara Stadium,PW,Bat,PW,Runs
+RCB,CSK,Bangalore,V Kohli,M Chinnaswamy Stadium,CSK,Field,RCB,Runs
+SRH,KKR,Hyderabad,PA Patel,"Rajiv Gandhi International Stadium, Uppal",KKR,Bat,SRH,Wickets
+CSK,MI,Delhi,MEK Hussey,Feroz Shah Kotla,CSK,Bat,CSK,Runs
+RR,SRH,Delhi,BJ Hodge,Feroz Shah Kotla,SRH,Bat,RR,Wickets
+MI,RR,Kolkata,Harbhajan Singh,Eden Gardens,RR,Bat,MI,Wickets
+CSK,MI,Kolkata,KA Pollard,Eden Gardens,MI,Bat,MI,Runs
+MI,KKR,Abu Dhabi,JH Kallis,Sheikh Zayed Stadium,KKR,Bat,KKR,Runs
+DC,RCB,NA,YS Chahal,Sharjah Cricket Stadium,RCB,Field,RCB,Wickets
+CSK,PBKS,Abu Dhabi,GJ Maxwell,Sheikh Zayed Stadium,CSK,Bat,PBKS,Wickets
+SRH,RR,Abu Dhabi,AM Rahane,Sheikh Zayed Stadium,RR,Field,RR,Wickets
+RCB,MI,NA,PA Patel,Dubai International Cricket Stadium,RCB,Field,RCB,Wickets
+KKR,DC,NA,JP Duminy,Dubai International Cricket Stadium,KKR,Bat,DC,Wickets
+RR,PBKS,NA,GJ Maxwell,Sharjah Cricket Stadium,PBKS,Field,PBKS,Wickets
+CSK,DC,Abu Dhabi,SK Raina,Sheikh Zayed Stadium,CSK,Bat,CSK,Runs
+PBKS,SRH,NA,GJ Maxwell,Sharjah Cricket Stadium,SRH,Field,PBKS,Runs
+RR,CSK,NA,RA Jadeja,Dubai International Cricket Stadium,RR,Field,CSK,Runs
+RCB,KKR,NA,CA Lynn,Sharjah Cricket Stadium,RCB,Field,KKR,Runs
+SRH,DC,NA,AJ Finch,Dubai International Cricket Stadium,SRH,Bat,SRH,Runs
+CSK,MI,Dubai,MM Sharma,Dubai International Cricket Stadium,MI,Bat,CSK,Wickets
+RR,RCB,Abu Dhabi,PV Tambe,Sheikh Zayed Stadium,RR,Field,RR,Wickets
+KKR,PBKS,Abu Dhabi,Sandeep Sharma,Sheikh Zayed Stadium,KKR,Field,PBKS,Runs
+DC,MI,NA,M Vijay,Sharjah Cricket Stadium,MI,Bat,DC,Wickets
+SRH,CSK,NA,DR Smith,Sharjah Cricket Stadium,SRH,Bat,CSK,Wickets
+PBKS,RCB,NA,Sandeep Sharma,Dubai International Cricket Stadium,PBKS,Field,PBKS,Wickets
+KKR,RR,Abu Dhabi,JP Faulkner,Sheikh Zayed Stadium,RR,Bat,RR,Tie
+MI,SRH,NA,B Kumar,Dubai International Cricket Stadium,MI,Field,SRH,Runs
+CSK,KKR,Ranchi,RA Jadeja,JSCA International Stadium Complex,CSK,Bat,CSK,Runs
+MI,PBKS,Mumbai,CJ Anderson,Wankhede Stadium,PBKS,Bat,MI,Wickets
+DC,RR,Delhi,KK Nair,Feroz Shah Kotla,RR,Field,RR,Wickets
+RCB,SRH,Bangalore,AB de Villiers,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+RR,KKR,Ahmedabad,PV Tambe,"Sardar Patel Stadium, Motera",KKR,Field,RR,Runs
+DC,CSK,Delhi,DR Smith,Feroz Shah Kotla,CSK,Field,CSK,Wickets
+MI,RCB,Mumbai,RG Sharma,Wankhede Stadium,RCB,Field,MI,Runs
+DC,KKR,Delhi,G Gambhir,Feroz Shah Kotla,DC,Bat,KKR,Wickets
+PBKS,CSK,Cuttack,GJ Maxwell,Barabati Stadium,CSK,Field,PBKS,Runs
+RR,SRH,Ahmedabad,B Kumar,"Sardar Patel Stadium, Motera",RR,Field,SRH,Runs
+RCB,PBKS,Bangalore,Sandeep Sharma,M Chinnaswamy Stadium,RCB,Field,PBKS,Runs
+DC,SRH,Delhi,DW Steyn,Feroz Shah Kotla,SRH,Field,SRH,Wickets
+MI,CSK,Mumbai,DR Smith,Wankhede Stadium,CSK,Field,CSK,Wickets
+PBKS,KKR,Cuttack,G Gambhir,Barabati Stadium,KKR,Field,KKR,Wickets
+RCB,RR,Bangalore,JP Faulkner,M Chinnaswamy Stadium,RCB,Bat,RR,Wickets
+SRH,MI,Hyderabad,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,MI,Wickets
+CSK,RR,Ranchi,RA Jadeja,JSCA International Stadium Complex,RR,Bat,CSK,Wickets
+RCB,DC,Bangalore,Yuvraj Singh,M Chinnaswamy Stadium,DC,Field,RCB,Runs
+SRH,PBKS,Hyderabad,WP Saha,"Rajiv Gandhi International Stadium, Uppal",PBKS,Field,PBKS,Wickets
+KKR,MI,Cuttack,RV Uthappa,Barabati Stadium,KKR,Field,KKR,Wickets
+RR,DC,Ahmedabad,AM Rahane,"Sardar Patel Stadium, Motera",DC,Field,RR,Runs
+CSK,RCB,Ranchi,AB de Villiers,JSCA International Stadium Complex,CSK,Bat,RCB,Wickets
+SRH,KKR,Hyderabad,UT Yadav,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,KKR,Wickets
+RR,MI,Ahmedabad,MEK Hussey,"Sardar Patel Stadium, Motera",MI,Bat,MI,Runs
+DC,PBKS,Delhi,AR Patel,Feroz Shah Kotla,PBKS,Field,PBKS,Wickets
+SRH,RCB,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",RCB,Bat,SRH,Wickets
+KKR,CSK,Kolkata,RV Uthappa,Eden Gardens,KKR,Field,KKR,Wickets
+PBKS,MI,Chandigarh,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",MI,Field,MI,Wickets
+KKR,RCB,Kolkata,RV Uthappa,Eden Gardens,RCB,Field,KKR,Runs
+CSK,SRH,Ranchi,DA Warner,JSCA International Stadium Complex,SRH,Field,SRH,Wickets
+MI,DC,Mumbai,MEK Hussey,Wankhede Stadium,DC,Field,MI,Runs
+PBKS,RR,Chandigarh,SE Marsh,"Punjab Cricket Association Stadium, Mohali",RR,Field,PBKS,Runs
+RCB,CSK,Bangalore,MS Dhoni,M Chinnaswamy Stadium,CSK,Field,CSK,Wickets
+KKR,SRH,Kolkata,YK Pathan,Eden Gardens,KKR,Field,KKR,Wickets
+PBKS,DC,Chandigarh,M Vohra,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,PBKS,Wickets
+MI,RR,Mumbai,CJ Anderson,Wankhede Stadium,MI,Field,MI,Wickets
+PBKS,KKR,Kolkata,UT Yadav,Eden Gardens,PBKS,Field,KKR,Runs
+CSK,MI,Mumbai,SK Raina,Brabourne Stadium,CSK,Field,CSK,Wickets
+CSK,PBKS,Mumbai,V Sehwag,Wankhede Stadium,CSK,Field,PBKS,Runs
+KKR,PBKS,Bangalore,MK Pandey,M Chinnaswamy Stadium,KKR,Field,KKR,Wickets
+KKR,MI,Kolkata,M Morkel,Eden Gardens,KKR,Field,KKR,Wickets
+CSK,DC,Chennai,A Nehra,"MA Chidambaram Stadium, Chepauk",DC,Field,CSK,Runs
+PBKS,RR,Pune,JP Faulkner,Maharashtra Cricket Association Stadium,PBKS,Field,RR,Runs
+CSK,SRH,Chennai,BB McCullum,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+KKR,RCB,Kolkata,CH Gayle,Eden Gardens,RCB,Field,RCB,Wickets
+DC,RR,Delhi,DJ Hooda,Feroz Shah Kotla,RR,Field,RR,Wickets
+MI,PBKS,Mumbai,GJ Bailey,Wankhede Stadium,MI,Field,PBKS,Runs
+RCB,SRH,Bangalore,DA Warner,M Chinnaswamy Stadium,SRH,Field,SRH,Wickets
+RR,MI,Ahmedabad,SPD Smith,"Sardar Patel Stadium, Motera",MI,Bat,RR,Wickets
+KKR,CSK,Kolkata,AD Russell,Eden Gardens,KKR,Field,KKR,Wickets
+PBKS,DC,Pune,MA Agarwal,Maharashtra Cricket Association Stadium,PBKS,Bat,DC,Wickets
+SRH,RR,Visakhapatnam,AM Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,RR,Field,RR,Wickets
+MI,CSK,Mumbai,A Nehra,Wankhede Stadium,MI,Bat,CSK,Wickets
+SRH,DC,Visakhapatnam,JP Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,DC,Bat,DC,Runs
+PBKS,KKR,Pune,AD Russell,Maharashtra Cricket Association Stadium,KKR,Field,KKR,Wickets
+RR,CSK,Ahmedabad,AM Rahane,"Sardar Patel Stadium, Motera",CSK,Bat,RR,Wickets
+RCB,MI,Bangalore,Harbhajan Singh,M Chinnaswamy Stadium,RCB,Field,MI,Runs
+DC,KKR,Delhi,UT Yadav,Feroz Shah Kotla,KKR,Field,KKR,Wickets
+RR,PBKS,Ahmedabad,SE Marsh,"Sardar Patel Stadium, Motera",PBKS,Field,PBKS,Tie
+SRH,KKR,Visakhapatnam,DA Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,KKR,Field,SRH,Runs
+RCB,CSK,Bangalore,SK Raina,M Chinnaswamy Stadium,RCB,Field,CSK,Runs
+DC,MI,Delhi,SS Iyer,Feroz Shah Kotla,MI,Field,DC,Runs
+RR,RCB,Ahmedabad,MA Starc,"Sardar Patel Stadium, Motera",RCB,Field,RCB,Wickets
+MI,SRH,Mumbai,SL Malinga,Wankhede Stadium,MI,Bat,MI,Runs
+CSK,PBKS,Chennai,BB McCullum,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+DC,RCB,Delhi,VR Aaron,Feroz Shah Kotla,RCB,Field,RCB,Wickets
+PBKS,SRH,Chandigarh,TA Boult,"Punjab Cricket Association Stadium, Mohali",PBKS,Field,SRH,Runs
+KKR,DC,Kolkata,PP Chawla,Eden Gardens,KKR,Bat,KKR,Runs
+RCB,RR,Bangalore,NA,M Chinnaswamy Stadium,RR,Field,NA,NA
+CSK,KKR,Chennai,DJ Bravo,"MA Chidambaram Stadium, Chepauk",KKR,Field,CSK,Runs
+DC,PBKS,Delhi,NM Coulter-Nile,Feroz Shah Kotla,DC,Field,DC,Wickets
+MI,RR,Mumbai,AT Rayudu,Wankhede Stadium,RR,Field,MI,Runs
+RCB,KKR,Bangalore,Mandeep Singh,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+SRH,CSK,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",CSK,Field,SRH,Runs
+PBKS,MI,Chandigarh,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",MI,Bat,MI,Runs
+RR,DC,Mumbai,AM Rahane,Brabourne Stadium,DC,Field,RR,Runs
+CSK,RCB,Chennai,SK Raina,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+KKR,SRH,Kolkata,UT Yadav,Eden Gardens,SRH,Field,KKR,Runs
+MI,DC,Mumbai,Harbhajan Singh,Wankhede Stadium,DC,Bat,MI,Wickets
+RCB,PBKS,Bangalore,CH Gayle,M Chinnaswamy Stadium,PBKS,Field,RCB,Runs
+RR,SRH,Mumbai,EJG Morgan,Brabourne Stadium,RR,Field,SRH,Runs
+CSK,MI,Chennai,HH Pandya,"MA Chidambaram Stadium, Chepauk",CSK,Bat,MI,Wickets
+KKR,PBKS,Kolkata,AD Russell,Eden Gardens,PBKS,Bat,KKR,Wickets
+DC,SRH,Raipur,MC Henriques,Shaheed Veer Narayan Singh International Stadium,SRH,Bat,SRH,Runs
+MI,RCB,Mumbai,AB de Villiers,Wankhede Stadium,RCB,Bat,RCB,Runs
+CSK,RR,Chennai,RA Jadeja,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+SRH,PBKS,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,SRH,Runs
+DC,CSK,Raipur,Z Khan,Shaheed Veer Narayan Singh International Stadium,CSK,Bat,DC,Wickets
+PBKS,RCB,Chandigarh,AR Patel,"Punjab Cricket Association Stadium, Mohali",RCB,Field,PBKS,Runs
+MI,KKR,Mumbai,HH Pandya,Wankhede Stadium,KKR,Field,MI,Runs
+SRH,RCB,Hyderabad,V Kohli,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,RCB,Wickets
+PBKS,CSK,Chandigarh,P Negi,"Punjab Cricket Association Stadium, Mohali",PBKS,Bat,CSK,Wickets
+RR,KKR,Mumbai,SR Watson,Brabourne Stadium,RR,Bat,RR,Runs
+RCB,DC,Bangalore,NA,M Chinnaswamy Stadium,RCB,Field,NA,NA
+SRH,MI,Hyderabad,MJ McClenaghan,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,MI,Wickets
+CSK,MI,Mumbai,KA Pollard,Wankhede Stadium,MI,Bat,MI,Runs
+RCB,RR,Pune,AB de Villiers,Maharashtra Cricket Association Stadium,RCB,Bat,RCB,Runs
+CSK,RCB,Ranchi,A Nehra,JSCA International Stadium Complex,CSK,Field,CSK,Wickets
+MI,CSK,Kolkata,RG Sharma,Eden Gardens,CSK,Field,MI,Runs
+MI,RPS,Mumbai,AM Rahane,Wankhede Stadium,MI,Bat,RPS,Wickets
+KKR,DC,Kolkata,AD Russell,Eden Gardens,KKR,Field,KKR,Wickets
+PBKS,GL,Chandigarh,AJ Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali",GL,Field,GL,Wickets
+RCB,SRH,Bangalore,AB de Villiers,M Chinnaswamy Stadium,SRH,Field,RCB,Runs
+KKR,MI,Kolkata,RG Sharma,Eden Gardens,MI,Field,MI,Wickets
+GL,RPS,Rajkot,AJ Finch,Saurashtra Cricket Association Stadium,RPS,Bat,GL,Wickets
+DC,PBKS,Delhi,A Mishra,Feroz Shah Kotla,DC,Field,DC,Wickets
+SRH,KKR,Hyderabad,G Gambhir,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,KKR,Wickets
+MI,GL,Mumbai,AJ Finch,Wankhede Stadium,GL,Field,GL,Wickets
+PBKS,RPS,Chandigarh,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",RPS,Bat,PBKS,Wickets
+RCB,DC,Bangalore,Q de Kock,M Chinnaswamy Stadium,DC,Field,DC,Wickets
+SRH,MI,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+PBKS,KKR,Chandigarh,RV Uthappa,"Punjab Cricket Association IS Bindra Stadium, Mohali",KKR,Field,KKR,Wickets
+MI,RCB,Mumbai,RG Sharma,Wankhede Stadium,MI,Field,MI,Wickets
+GL,SRH,Rajkot,B Kumar,Saurashtra Cricket Association Stadium,SRH,Field,SRH,Wickets
+RPS,RCB,Pune,AB de Villiers,Maharashtra Cricket Association Stadium,RPS,Field,RCB,Runs
+DC,MI,Delhi,SV Samson,Feroz Shah Kotla,MI,Field,DC,Runs
+SRH,PBKS,Hyderabad,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+GL,RCB,Rajkot,V Kohli,Saurashtra Cricket Association Stadium,RCB,Bat,GL,Wickets
+RPS,KKR,Pune,SA Yadav,Maharashtra Cricket Association Stadium,KKR,Field,KKR,Wickets
+PBKS,MI,Chandigarh,PA Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,MI,Runs
+SRH,RPS,Hyderabad,AB Dinda,"Rajiv Gandhi International Stadium, Uppal",RPS,Field,RPS,Runs
+DC,GL,Delhi,CH Morris,Feroz Shah Kotla,DC,Field,GL,Runs
+MI,KKR,Mumbai,RG Sharma,Wankhede Stadium,MI,Field,MI,Wickets
+RPS,GL,Pune,DR Smith,Maharashtra Cricket Association Stadium,GL,Field,GL,Wickets
+DC,KKR,Delhi,CR Brathwaite,Feroz Shah Kotla,KKR,Field,DC,Runs
+SRH,RCB,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",RCB,Field,SRH,Runs
+GL,PBKS,Rajkot,AR Patel,Saurashtra Cricket Association Stadium,GL,Field,PBKS,Runs
+RPS,MI,Pune,RG Sharma,Maharashtra Cricket Association Stadium,MI,Field,MI,Wickets
+RCB,KKR,Bangalore,AD Russell,M Chinnaswamy Stadium,KKR,Field,KKR,Wickets
+GL,DC,Rajkot,RR Pant,Saurashtra Cricket Association Stadium,DC,Field,DC,Wickets
+KKR,PBKS,Kolkata,AD Russell,Eden Gardens,PBKS,Field,KKR,Runs
+DC,RPS,Delhi,AM Rahane,Feroz Shah Kotla,RPS,Field,RPS,Wickets
+SRH,GL,Hyderabad,B Kumar,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+RCB,RPS,Bangalore,V Kohli,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+PBKS,DC,Chandigarh,MP Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali",DC,Field,PBKS,Runs
+MI,SRH,Visakhapatnam,A Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,Field,SRH,Runs
+KKR,GL,Kolkata,P Kumar,Eden Gardens,GL,Field,GL,Wickets
+PBKS,RCB,Chandigarh,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,RCB,Runs
+RPS,SRH,Visakhapatnam,A Zampa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,SRH,Bat,SRH,Runs
+RCB,MI,Bangalore,KH Pandya,M Chinnaswamy Stadium,MI,Field,MI,Wickets
+SRH,DC,Hyderabad,CH Morris,"Rajiv Gandhi International Stadium, Uppal",DC,Field,DC,Wickets
+MI,PBKS,Visakhapatnam,MP Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,MI,Bat,PBKS,Wickets
+RCB,GL,Bangalore,AB de Villiers,M Chinnaswamy Stadium,GL,Field,RCB,Runs
+KKR,RPS,Kolkata,YK Pathan,Eden Gardens,RPS,Bat,KKR,Wickets
+PBKS,SRH,Chandigarh,HM Amla,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Bat,SRH,Wickets
+MI,DC,Visakhapatnam,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,DC,Field,MI,Runs
+KKR,RCB,Kolkata,V Kohli,Eden Gardens,RCB,Field,RCB,Wickets
+RPS,DC,Visakhapatnam,AB Dinda,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,RPS,Field,RPS,Runs
+RCB,PBKS,Bangalore,V Kohli,M Chinnaswamy Stadium,PBKS,Field,RCB,Runs
+GL,KKR,Kanpur,DR Smith,Green Park,GL,Field,GL,Wickets
+DC,SRH,Raipur,KK Nair,Shaheed Veer Narayan Singh International Stadium,DC,Field,DC,Wickets
+RPS,PBKS,Visakhapatnam,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,PBKS,Bat,RPS,Wickets
+GL,MI,Kanpur,SK Raina,Green Park,GL,Field,GL,Wickets
+KKR,SRH,Kolkata,YK Pathan,Eden Gardens,SRH,Field,KKR,Runs
+DC,RCB,Raipur,V Kohli,Shaheed Veer Narayan Singh International Stadium,RCB,Field,RCB,Wickets
+GL,RCB,Bangalore,AB de Villiers,M Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+SRH,KKR,Delhi,MC Henriques,Feroz Shah Kotla,KKR,Field,SRH,Runs
+GL,SRH,Delhi,DA Warner,Feroz Shah Kotla,SRH,Field,SRH,Wickets
+RCB,SRH,Bangalore,BCJ Cutting,M Chinnaswamy Stadium,SRH,Bat,SRH,Runs
+SRH,RCB,Hyderabad,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",RCB,Field,SRH,Runs
+RPS,MI,Pune,SPD Smith,Maharashtra Cricket Association Stadium,RPS,Field,RPS,Wickets
+GL,KKR,Rajkot,CA Lynn,Saurashtra Cricket Association Stadium,KKR,Field,KKR,Wickets
+PBKS,RPS,Indore,GJ Maxwell,Holkar Cricket Stadium,PBKS,Field,PBKS,Wickets
+RCB,DC,Bengaluru,KM Jadhav,M.Chinnaswamy Stadium,RCB,Bat,RCB,Runs
+SRH,GL,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+MI,KKR,Mumbai,N Rana,Wankhede Stadium,MI,Field,MI,Wickets
+PBKS,RCB,Indore,AR Patel,Holkar Cricket Stadium,RCB,Bat,PBKS,Wickets
+RPS,DC,Pune,SV Samson,Maharashtra Cricket Association Stadium,RPS,Field,DC,Runs
+MI,SRH,Mumbai,JJ Bumrah,Wankhede Stadium,MI,Field,MI,Wickets
+KKR,PBKS,Kolkata,SP Narine,Eden Gardens,KKR,Field,KKR,Wickets
+RCB,MI,Bangalore,KA Pollard,M Chinnaswamy Stadium,MI,Field,MI,Wickets
+GL,RPS,Rajkot,AJ Tye,Saurashtra Cricket Association Stadium,GL,Field,GL,Wickets
+KKR,SRH,Kolkata,RV Uthappa,Eden Gardens,SRH,Field,KKR,Runs
+DC,PBKS,Delhi,CJ Anderson,Feroz Shah Kotla,DC,Bat,DC,Runs
+MI,GL,Mumbai,N Rana,Wankhede Stadium,MI,Field,MI,Wickets
+RCB,RPS,Bangalore,BA Stokes,M Chinnaswamy Stadium,RCB,Field,RPS,Runs
+DC,KKR,Delhi,NM Coulter-Nile,Feroz Shah Kotla,DC,Bat,KKR,Wickets
+SRH,PBKS,Hyderabad,B Kumar,"Rajiv Gandhi International Stadium, Uppal",PBKS,Field,SRH,Runs
+GL,RCB,Rajkot,CH Gayle,Saurashtra Cricket Association Stadium,GL,Field,RCB,Runs
+SRH,DC,Hyderabad,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,SRH,Runs
+PBKS,MI,Indore,JC Buttler,Holkar Cricket Stadium,MI,Field,MI,Wickets
+KKR,GL,Kolkata,SK Raina,Eden Gardens,GL,Field,GL,Wickets
+MI,DC,Mumbai,MJ McClenaghan,Wankhede Stadium,DC,Field,MI,Runs
+RPS,SRH,Pune,MS Dhoni,Maharashtra Cricket Association Stadium,RPS,Field,RPS,Wickets
+GL,PBKS,Rajkot,HM Amla,Saurashtra Cricket Association Stadium,GL,Field,PBKS,Runs
+KKR,RCB,Kolkata,NM Coulter-Nile,Eden Gardens,RCB,Field,KKR,Runs
+MI,RPS,Mumbai,BA Stokes,Wankhede Stadium,MI,Field,RPS,Runs
+RPS,KKR,Pune,RV Uthappa,Maharashtra Cricket Association Stadium,KKR,Field,KKR,Wickets
+RCB,GL,Bangalore,AJ Tye,M Chinnaswamy Stadium,GL,Field,GL,Wickets
+KKR,DC,Kolkata,G Gambhir,Eden Gardens,KKR,Field,KKR,Wickets
+PBKS,SRH,Chandigarh,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,SRH,Runs
+RPS,RCB,Pune,LH Ferguson,Maharashtra Cricket Association Stadium,RCB,Field,RPS,Runs
+GL,MI,Rajkot,KH Pandya,Saurashtra Cricket Association Stadium,GL,Bat,MI,Tie
+PBKS,DC,Chandigarh,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,PBKS,Wickets
+SRH,KKR,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",KKR,Field,SRH,Runs
+MI,RCB,Mumbai,RG Sharma,Wankhede Stadium,RCB,Bat,MI,Wickets
+RPS,GL,Pune,BA Stokes,Maharashtra Cricket Association Stadium,RPS,Field,RPS,Wickets
+DC,SRH,Delhi,Mohammed Shami,Feroz Shah Kotla,DC,Field,DC,Wickets
+KKR,RPS,Kolkata,RA Tripathi,Eden Gardens,RPS,Field,RPS,Wickets
+DC,GL,Delhi,RR Pant,Feroz Shah Kotla,DC,Field,DC,Wickets
+RCB,PBKS,Bangalore,Sandeep Sharma,M Chinnaswamy Stadium,RCB,Field,PBKS,Runs
+SRH,RPS,Hyderabad,JD Unadkat,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,RPS,Runs
+DC,MI,Delhi,LMP Simmons,Feroz Shah Kotla,DC,Field,MI,Runs
+RCB,KKR,Bangalore,SP Narine,M Chinnaswamy Stadium,KKR,Field,KKR,Wickets
+PBKS,GL,Chandigarh,DR Smith,"Punjab Cricket Association IS Bindra Stadium, Mohali",GL,Field,GL,Wickets
+SRH,MI,Hyderabad,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",MI,Bat,SRH,Wickets
+PBKS,KKR,Chandigarh,MM Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",KKR,Field,PBKS,Runs
+GL,DC,Kanpur,SS Iyer,Green Park,DC,Field,DC,Wickets
+MI,PBKS,Mumbai,WP Saha,Wankhede Stadium,MI,Field,PBKS,Runs
+DC,RPS,Delhi,KK Nair,Feroz Shah Kotla,DC,Bat,DC,Runs
+GL,SRH,Kanpur,Mohammed Siraj,Green Park,SRH,Field,SRH,Wickets
+KKR,MI,Kolkata,AT Rayudu,Eden Gardens,KKR,Field,MI,Runs
+RPS,PBKS,Pune,JD Unadkat,Maharashtra Cricket Association Stadium,RPS,Field,RPS,Wickets
+DC,RCB,Delhi,HV Patel,Feroz Shah Kotla,RCB,Bat,RCB,Runs
+MI,RPS,Mumbai,Washington Sundar,Wankhede Stadium,MI,Field,RPS,Runs
+SRH,KKR,Bangalore,NM Coulter-Nile,M Chinnaswamy Stadium,KKR,Field,KKR,Wickets
+MI,KKR,Bangalore,KV Sharma,M Chinnaswamy Stadium,MI,Field,MI,Wickets
+MI,RPS,Hyderabad,KH Pandya,"Rajiv Gandhi International Stadium, Uppal",MI,Bat,MI,Runs
+MI,CSK,Mumbai,DJ Bravo,Wankhede Stadium,CSK,Field,CSK,Wickets
+PBKS,DC,Chandigarh,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,PBKS,Wickets
+KKR,RCB,Kolkata,SP Narine,Eden Gardens,KKR,Field,KKR,Wickets
+SRH,RR,Hyderabad,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+CSK,KKR,Chennai,SW Billings,"MA Chidambaram Stadium, Chepauk",CSK,Field,CSK,Wickets
+RR,DC,Jaipur,SV Samson,Sawai Mansingh Stadium,DC,Field,RR,Runs
+SRH,MI,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+RCB,PBKS,Bengaluru,UT Yadav,M.Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+MI,DC,Mumbai,JJ Roy,Wankhede Stadium,DC,Field,DC,Wickets
+KKR,SRH,Kolkata,B Stanlake,Eden Gardens,SRH,Field,SRH,Wickets
+RCB,RR,Bengaluru,SV Samson,M.Chinnaswamy Stadium,RCB,Field,RR,Runs
+PBKS,CSK,Chandigarh,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",CSK,Field,PBKS,Runs
+KKR,DC,Kolkata,N Rana,Eden Gardens,DC,Field,KKR,Runs
+MI,RCB,Mumbai,RG Sharma,Wankhede Stadium,RCB,Field,MI,Runs
+RR,KKR,Jaipur,N Rana,Sawai Mansingh Stadium,KKR,Field,KKR,Wickets
+PBKS,SRH,Chandigarh,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Bat,PBKS,Runs
+CSK,RR,Pune,SR Watson,Maharashtra Cricket Association Stadium,RR,Field,CSK,Runs
+KKR,PBKS,Kolkata,KL Rahul,Eden Gardens,PBKS,Field,PBKS,Wickets
+RCB,DC,Bengaluru,AB de Villiers,M.Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+SRH,CSK,Hyderabad,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,CSK,Runs
+RR,MI,Jaipur,JC Archer,Sawai Mansingh Stadium,MI,Bat,RR,Wickets
+DC,PBKS,Delhi,AS Rajpoot,Feroz Shah Kotla,DC,Field,PBKS,Runs
+MI,SRH,Mumbai,Rashid Khan,Wankhede Stadium,MI,Field,SRH,Runs
+RCB,CSK,Bengaluru,MS Dhoni,M.Chinnaswamy Stadium,CSK,Field,CSK,Wickets
+SRH,PBKS,Hyderabad,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal",PBKS,Field,SRH,Runs
+DC,KKR,Delhi,SS Iyer,Feroz Shah Kotla,KKR,Field,DC,Runs
+CSK,MI,Pune,RG Sharma,Maharashtra Cricket Association Stadium,MI,Field,MI,Wickets
+RR,SRH,Jaipur,KS Williamson,Sawai Mansingh Stadium,SRH,Bat,SRH,Runs
+RCB,KKR,Bengaluru,CA Lynn,M.Chinnaswamy Stadium,KKR,Field,KKR,Wickets
+CSK,DC,Pune,SR Watson,Maharashtra Cricket Association Stadium,DC,Field,CSK,Runs
+RCB,MI,Bengaluru,TG Southee,M.Chinnaswamy Stadium,MI,Field,RCB,Runs
+DC,RR,Delhi,RR Pant,Feroz Shah Kotla,RR,Field,DC,Runs
+KKR,CSK,Kolkata,SP Narine,Eden Gardens,KKR,Field,KKR,Wickets
+PBKS,MI,Indore,SA Yadav,Holkar Cricket Stadium,MI,Field,MI,Wickets
+CSK,RCB,Pune,RA Jadeja,Maharashtra Cricket Association Stadium,CSK,Field,CSK,Wickets
+SRH,DC,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",DC,Bat,SRH,Wickets
+MI,KKR,Mumbai,HH Pandya,Wankhede Stadium,KKR,Field,MI,Runs
+PBKS,RR,Indore,Mujeeb Ur Rahman,Holkar Cricket Stadium,PBKS,Field,PBKS,Wickets
+SRH,RCB,Hyderabad,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",RCB,Field,SRH,Runs
+RR,PBKS,Jaipur,JC Buttler,Sawai Mansingh Stadium,RR,Bat,RR,Runs
+KKR,MI,Kolkata,Ishan Kishan,Eden Gardens,KKR,Field,MI,Runs
+DC,SRH,Delhi,S Dhawan,Feroz Shah Kotla,DC,Bat,SRH,Wickets
+RR,CSK,Jaipur,JC Buttler,Sawai Mansingh Stadium,CSK,Bat,RR,Wickets
+PBKS,KKR,Indore,SP Narine,Holkar Cricket Stadium,PBKS,Field,KKR,Runs
+DC,RCB,Delhi,AB de Villiers,Feroz Shah Kotla,RCB,Field,RCB,Wickets
+CSK,SRH,Pune,AT Rayudu,Maharashtra Cricket Association Stadium,CSK,Field,CSK,Wickets
+MI,RR,Mumbai,JC Buttler,Wankhede Stadium,RR,Field,RR,Wickets
+PBKS,RCB,Indore,UT Yadav,Holkar Cricket Stadium,RCB,Field,RCB,Wickets
+KKR,RR,Kolkata,Kuldeep Yadav,Eden Gardens,KKR,Field,KKR,Wickets
+MI,PBKS,Mumbai,JJ Bumrah,Wankhede Stadium,PBKS,Field,MI,Runs
+RCB,SRH,Bengaluru,AB de Villiers,M.Chinnaswamy Stadium,SRH,Field,RCB,Runs
+DC,CSK,Delhi,HV Patel,Feroz Shah Kotla,CSK,Field,DC,Runs
+RR,RCB,Jaipur,S Gopal,Sawai Mansingh Stadium,RR,Bat,RR,Runs
+SRH,KKR,Hyderabad,CA Lynn,"Rajiv Gandhi International Stadium, Uppal",SRH,Bat,KKR,Wickets
+DC,MI,Delhi,A Mishra,Feroz Shah Kotla,DC,Bat,DC,Runs
+CSK,PBKS,Pune,L Ngidi,Maharashtra Cricket Association Stadium,CSK,Field,CSK,Wickets
+SRH,CSK,Mumbai,F du Plessis,Wankhede Stadium,CSK,Field,CSK,Wickets
+KKR,RR,Kolkata,AD Russell,Eden Gardens,RR,Field,KKR,Runs
+KKR,SRH,Kolkata,Rashid Khan,Eden Gardens,KKR,Field,SRH,Runs
+CSK,SRH,Mumbai,SR Watson,Wankhede Stadium,CSK,Field,CSK,Wickets
+CSK,RCB,Chennai,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk",CSK,Field,CSK,Wickets
+KKR,SRH,Kolkata,AD Russell,Eden Gardens,KKR,Field,KKR,Wickets
+MI,DC,Mumbai,RR Pant,Wankhede Stadium,MI,Field,DC,Runs
+RR,PBKS,Jaipur,CH Gayle,Sawai Mansingh Stadium,RR,Field,PBKS,Runs
+DC,CSK,Delhi,SR Watson,Feroz Shah Kotla,DC,Bat,CSK,Wickets
+KKR,PBKS,Kolkata,AD Russell,Eden Gardens,PBKS,Field,KKR,Runs
+RCB,MI,Bengaluru,JJ Bumrah,M.Chinnaswamy Stadium,RCB,Field,MI,Runs
+SRH,RR,Hyderabad,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",RR,Bat,SRH,Wickets
+PBKS,MI,Chandigarh,MA Agarwal,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,PBKS,Wickets
+DC,KKR,Delhi,PP Shaw,Feroz Shah Kotla,DC,Field,DC,Tie
+SRH,RCB,Hyderabad,JM Bairstow,"Rajiv Gandhi International Stadium, Uppal",RCB,Field,SRH,Runs
+CSK,RR,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",RR,Field,CSK,Runs
+PBKS,DC,Chandigarh,SM Curran,"Punjab Cricket Association IS Bindra Stadium, Mohali",DC,Field,PBKS,Runs
+RR,RCB,Jaipur,S Gopal,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+MI,CSK,Mumbai,HH Pandya,Wankhede Stadium,CSK,Field,MI,Runs
+DC,SRH,Delhi,JM Bairstow,Feroz Shah Kotla,SRH,Field,SRH,Wickets
+RCB,KKR,Bengaluru,AD Russell,M.Chinnaswamy Stadium,KKR,Field,KKR,Wickets
+CSK,PBKS,Chennai,Harbhajan Singh,"MA Chidambaram Stadium, Chepauk",CSK,Bat,CSK,Runs
+SRH,MI,Hyderabad,AS Joseph,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,MI,Runs
+RCB,DC,Bengaluru,K Rabada,M.Chinnaswamy Stadium,DC,Field,DC,Wickets
+RR,KKR,Jaipur,HF Gurney,Sawai Mansingh Stadium,KKR,Field,KKR,Wickets
+PBKS,SRH,Chandigarh,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,PBKS,Wickets
+CSK,KKR,Chennai,DL Chahar,"MA Chidambaram Stadium, Chepauk",CSK,Field,CSK,Wickets
+MI,PBKS,Mumbai,KA Pollard,Wankhede Stadium,MI,Field,MI,Wickets
+RR,CSK,Jaipur,MS Dhoni,Sawai Mansingh Stadium,CSK,Field,CSK,Wickets
+KKR,DC,Kolkata,S Dhawan,Eden Gardens,DC,Field,DC,Wickets
+MI,RR,Mumbai,JC Buttler,Wankhede Stadium,RR,Field,RR,Wickets
+PBKS,RCB,Chandigarh,AB de Villiers,"Punjab Cricket Association IS Bindra Stadium, Mohali",RCB,Field,RCB,Wickets
+KKR,CSK,Kolkata,Imran Tahir,Eden Gardens,CSK,Field,CSK,Wickets
+SRH,DC,Hyderabad,KMA Paul,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,DC,Runs
+MI,RCB,Mumbai,SL Malinga,Wankhede Stadium,MI,Field,MI,Wickets
+PBKS,RR,Chandigarh,R Ashwin,"Punjab Cricket Association IS Bindra Stadium, Mohali",RR,Field,PBKS,Runs
+SRH,CSK,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",CSK,Bat,SRH,Wickets
+DC,MI,Delhi,HH Pandya,Feroz Shah Kotla,MI,Bat,MI,Runs
+KKR,RCB,Kolkata,V Kohli,Eden Gardens,KKR,Field,RCB,Runs
+RR,MI,Jaipur,SPD Smith,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+DC,PBKS,Delhi,SS Iyer,Feroz Shah Kotla,DC,Field,DC,Wickets
+SRH,KKR,Hyderabad,KK Ahmed,"Rajiv Gandhi International Stadium, Uppal",SRH,Field,SRH,Wickets
+RCB,CSK,Bengaluru,PA Patel,M.Chinnaswamy Stadium,CSK,Field,RCB,Runs
+RR,DC,Jaipur,RR Pant,Sawai Mansingh Stadium,DC,Field,DC,Wickets
+CSK,SRH,Chennai,SR Watson,"MA Chidambaram Stadium, Chepauk",CSK,Field,CSK,Wickets
+RCB,PBKS,Bengaluru,AB de Villiers,M.Chinnaswamy Stadium,PBKS,Field,RCB,Runs
+KKR,RR,Kolkata,VR Aaron,Eden Gardens,RR,Field,RR,Wickets
+CSK,MI,Chennai,RG Sharma,"MA Chidambaram Stadium, Chepauk",CSK,Field,MI,Runs
+RR,SRH,Jaipur,JD Unadkat,Sawai Mansingh Stadium,RR,Field,RR,Wickets
+DC,RCB,Delhi,S Dhawan,Feroz Shah Kotla,DC,Bat,DC,Runs
+KKR,MI,Kolkata,AD Russell,Eden Gardens,MI,Field,KKR,Runs
+SRH,PBKS,Hyderabad,DA Warner,"Rajiv Gandhi International Stadium, Uppal",PBKS,Field,SRH,Runs
+RCB,RR,Bengaluru,NA,M.Chinnaswamy Stadium,RR,Field,NA,NA
+CSK,DC,Chennai,MS Dhoni,"MA Chidambaram Stadium, Chepauk",DC,Field,CSK,Runs
+MI,SRH,Mumbai,JJ Bumrah,Wankhede Stadium,MI,Bat,MI,Tie
+PBKS,KKR,Chandigarh,Shubman Gill,"Punjab Cricket Association IS Bindra Stadium, Mohali",KKR,Field,KKR,Wickets
+DC,RR,Delhi,A Mishra,Feroz Shah Kotla,RR,Bat,DC,Wickets
+RCB,SRH,Bengaluru,SO Hetmyer,M.Chinnaswamy Stadium,RCB,Field,RCB,Wickets
+PBKS,CSK,Chandigarh,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali",PBKS,Field,PBKS,Wickets
+MI,KKR,Mumbai,HH Pandya,Wankhede Stadium,MI,Field,MI,Wickets
+MI,CSK,Chennai,SA Yadav,"MA Chidambaram Stadium, Chepauk",CSK,Bat,MI,Wickets
+DC,SRH,Visakhapatnam,RR Pant,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,DC,Field,DC,Wickets
+CSK,DC,Visakhapatnam,F du Plessis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,CSK,Field,CSK,Wickets
+MI,CSK,Hyderabad,JJ Bumrah,"Rajiv Gandhi International Stadium, Uppal",MI,Bat,MI,Runs
+MI,CSK,Abu Dhabi,AT Rayudu,Sheikh Zayed Stadium,CSK,Field,CSK,Wickets
+DC,PBKS,Dubai,MP Stoinis,Dubai International Cricket Stadium,PBKS,Field,DC,Tie
+KKR,RCB,Abu Dhabi,Mohammed Siraj,Sheikh Zayed Stadium,KKR,Bat,RCB,Wickets
+MI,SRH,Sharjah,S Nadeem,Sharjah Cricket Stadium,SRH,Field,SRH,Wickets
+RR,CSK,Sharjah,SV Samson,Sharjah Cricket Stadium,CSK,Field,RR,Runs
+KKR,DC,Abu Dhabi,CV Varun,Sheikh Zayed Stadium,DC,Field,KKR,Runs
+PBKS,SRH,Dubai,CJ Jordan,Dubai International Cricket Stadium,SRH,Field,PBKS,Runs
+RCB,MI,Abu Dhabi,SA Yadav,Sheikh Zayed Stadium,MI,Field,MI,Wickets
+DC,RR,Sharjah,R Ashwin,Sharjah Cricket Stadium,RR,Field,DC,Runs
+KKR,CSK,Abu Dhabi,RA Tripathi,Sheikh Zayed Stadium,KKR,Bat,KKR,Runs
+RCB,SRH,Sharjah,Sandeep Sharma,Sharjah Cricket Stadium,SRH,Field,SRH,Wickets
+MI,PBKS,Abu Dhabi,KA Pollard,Sheikh Zayed Stadium,PBKS,Field,MI,Runs
+KKR,RR,Dubai,Shivam Mavi,Dubai International Cricket Stadium,RR,Field,KKR,Runs
+RCB,DC,Abu Dhabi,A Nortje,Sheikh Zayed Stadium,DC,Field,DC,Wickets
+PBKS,CSK,Abu Dhabi,RD Gaikwad,Sheikh Zayed Stadium,CSK,Field,CSK,Wickets
+SRH,RR,Dubai,R Tewatia,Dubai International Cricket Stadium,SRH,Bat,RR,Wickets
+MI,KKR,Abu Dhabi,RG Sharma,Sheikh Zayed Stadium,KKR,Field,MI,Runs
+CSK,DC,Sharjah,S Dhawan,Sharjah Cricket Stadium,CSK,Bat,DC,Wickets
+PBKS,RCB,Dubai,KL Rahul,Dubai International Cricket Stadium,RCB,Field,PBKS,Runs
+MI,RR,Abu Dhabi,SA Yadav,Sheikh Zayed Stadium,MI,Bat,MI,Runs
+KKR,SRH,Abu Dhabi,LH Ferguson,Sheikh Zayed Stadium,SRH,Field,KKR,Tie
+PBKS,CSK,Dubai,SR Watson,Dubai International Cricket Stadium,PBKS,Bat,CSK,Wickets
+RR,RCB,Abu Dhabi,YS Chahal,Sheikh Zayed Stadium,RR,Bat,RCB,Wickets
+DC,KKR,Sharjah,SS Iyer,Sharjah Cricket Stadium,KKR,Field,DC,Runs
+SRH,CSK,Dubai,PK Garg,Dubai International Cricket Stadium,SRH,Bat,SRH,Runs
+MI,PBKS,Dubai,KL Rahul,Dubai International Cricket Stadium,MI,Bat,PBKS,Tie
+RR,SRH,Dubai,MK Pandey,Dubai International Cricket Stadium,SRH,Field,SRH,Wickets
+DC,RCB,Dubai,AR Patel,Dubai International Cricket Stadium,RCB,Field,DC,Runs
+KKR,PBKS,Sharjah,CH Gayle,Sharjah Cricket Stadium,PBKS,Field,PBKS,Wickets
+CSK,MI,Sharjah,TA Boult,Sharjah Cricket Stadium,MI,Field,MI,Wickets
+RR,RCB,Dubai,AB de Villiers,Dubai International Cricket Stadium,RR,Bat,RCB,Wickets
+KKR,PBKS,Abu Dhabi,KD Karthik,Sheikh Zayed Stadium,KKR,Bat,KKR,Runs
+SRH,DC,Dubai,WP Saha,Dubai International Cricket Stadium,DC,Field,SRH,Runs
+RCB,CSK,Dubai,V Kohli,Dubai International Cricket Stadium,RCB,Bat,RCB,Runs
+KKR,MI,Abu Dhabi,Q de Kock,Sheikh Zayed Stadium,KKR,Bat,MI,Wickets
+PBKS,RR,Sharjah,SV Samson,Sharjah Cricket Stadium,RR,Field,RR,Wickets
+CSK,SRH,Dubai,RA Jadeja,Dubai International Cricket Stadium,CSK,Bat,CSK,Runs
+DC,MI,Abu Dhabi,Q de Kock,Sheikh Zayed Stadium,DC,Bat,MI,Wickets
+KKR,RR,Dubai,PJ Cummins,Dubai International Cricket Stadium,RR,Field,KKR,Runs
+RCB,PBKS,Sharjah,KL Rahul,Sharjah Cricket Stadium,RCB,Bat,PBKS,Wickets
+SRH,DC,Abu Dhabi,Rashid Khan,Sheikh Zayed Stadium,DC,Field,SRH,Runs
+CSK,RR,Abu Dhabi,JC Buttler,Sheikh Zayed Stadium,CSK,Bat,RR,Wickets
+RCB,SRH,Dubai,YS Chahal,Dubai International Cricket Stadium,SRH,Field,RCB,Runs
+DC,MI,Dubai,Ishan Kishan,Dubai International Cricket Stadium,MI,Field,MI,Wickets
+KKR,CSK,Dubai,RD Gaikwad,Dubai International Cricket Stadium,CSK,Field,CSK,Wickets
+PBKS,RR,Abu Dhabi,BA Stokes,Sheikh Zayed Stadium,RR,Field,RR,Wickets
+MI,SRH,Sharjah,TA Boult,Sharjah Cricket Stadium,MI,Bat,MI,Runs
+DC,CSK,Dubai,PP Shaw,Dubai International Cricket Stadium,CSK,Field,DC,Runs
+RCB,KKR,Sharjah,AB de Villiers,Sharjah Cricket Stadium,RCB,Bat,RCB,Runs
+MI,RR,Abu Dhabi,BA Stokes,Sheikh Zayed Stadium,MI,Bat,RR,Wickets
+SRH,PBKS,Dubai,JM Bairstow,Dubai International Cricket Stadium,SRH,Bat,SRH,Runs
+DC,RR,Dubai,A Nortje,Dubai International Cricket Stadium,DC,Bat,DC,Runs
+RCB,CSK,Dubai,RD Gaikwad,Dubai International Cricket Stadium,RCB,Bat,CSK,Wickets
+SRH,KKR,Abu Dhabi,Shubman Gill,Sheikh Zayed Stadium,SRH,Bat,KKR,Wickets
+DC,PBKS,Dubai,S Dhawan,Dubai International Cricket Stadium,DC,Bat,PBKS,Wickets
+RCB,MI,Dubai,AB de Villiers,Dubai International Cricket Stadium,MI,Field,RCB,Tie
+MI,DC,Dubai,JJ Bumrah,Dubai International Cricket Stadium,DC,Field,MI,Runs
+RCB,SRH,Abu Dhabi,KS Williamson,Sheikh Zayed Stadium,SRH,Field,SRH,Wickets
+DC,SRH,Abu Dhabi,MP Stoinis,Sheikh Zayed Stadium,DC,Bat,DC,Runs
+DC,MI,Dubai,TA Boult,Dubai International Cricket Stadium,DC,Bat,MI,Wickets
+DC,KKR,Sharjah,Venkatesh Iyer,Sharjah Cricket Stadium,KKR,Field,KKR,Wickets
+CSK,KKR,Dubai,Faf du Plessis,Dubai International Cricket Stadium,KKR,Field,CSK,Runs
+RCB,KKR,Sharjah,Sunil Narine,Sharjah Cricket Stadium,RCB,Bat,KKR,Wickets
+DC,CSK,Dubai,Ruturaj Gaikwad,Dubai International Cricket Stadium,CSK,Field,CSK,Wickets
+RCB,DC,Dubai,Srikar Bharat,Dubai International Cricket Stadium,RCB,Field,RCB,Wickets
+SRH,MI,Abu Dhabi,Ishan Kishan,"Sheikh Zayed Stadium, Abu Dhabi",MI,Bat,MI,Runs
+KKR,RR,Sharjah,Shivam Mavi,Sharjah Cricket Stadium,RR,Field,KKR,Runs
+CSK,PBKS,Dubai,KL Rahul,Dubai International Cricket Stadium,KXIP,Field,PBKS,Wickets
+RCB,SRH,Abu Dhabi,Kane Williamson,"Sheikh Zayed Stadium, Abu Dhabi",RCB,Field,SRH,Runs
+RR,MI,Sharjah,Nathan Coulter-Nile,Sharjah Cricket Stadium,MI,Field,MI,Wickets
+DC,CSK,Dubai,Axar Patel,Dubai International Cricket Stadium,DC,Field,DC,Wickets
+KKR,SRH,Dubai,Shubman Gill,Dubai International Cricket Stadium,SRH,Bat,KKR,Wickets
+RCB,PBKS,Sharjah,Glenn Maxwell,Sharjah Cricket Stadium,RCB,Bat,RCB,Runs
+RR,CSK,Abu Dhabi,Ruturaj Gaikwad,"Sheikh Zayed Stadium, Abu Dhabi",RR,Field,RR,Wickets
+MI,DC,Sharjah,Axar Patel,Sharjah Cricket Stadium,DC,Field,DC,Wickets
+KKR,PBKS,Dubai,KL Rahul,Dubai International Cricket Stadium,KXIP,Field,PBKS,Wickets
+SRH,CSK,Sharjah,Josh Hazlewood,Sharjah Cricket Stadium,CSK,Field,CSK,Wickets
+RR,RCB,Dubai,Yuzvendra Chahal,Dubai International Cricket Stadium,RCB,Field,RCB,Wickets
+MI,PBKS,Abu Dhabi,Kieron Pollard,"Sheikh Zayed Stadium, Abu Dhabi",MI,Field,MI,Wickets
+KKR,DC,Sharjah,Sunil Narine,Sharjah Cricket Stadium,KKR,Field,KKR,Wickets
+SRH,RR,Dubai,Jason Roy,Dubai International Cricket Stadium,RR,Bat,SRH,Wickets
+RCB,MI,Dubai,Glenn Maxwell,Dubai International Cricket Stadium,MI,Field,RCB,Runs
+CSK,KKR,Abu Dhabi,Ravindra Jadeja,"Sheikh Zayed Stadium, Abu Dhabi",KKR,Bat,CSK,Wickets
+SRH,PBKS,Sharjah,Jason Holder,Sharjah Cricket Stadium,SRH,Field,PBKS,Runs
+DC,RR,Abu Dhabi,Shreyas Iyer,"Sheikh Zayed Stadium, Abu Dhabi",RR,Field,DC,Runs
+RCB,CSK,Sharjah,Dwayne Bravo,Sharjah Cricket Stadium,CSK,Field,CSK,Wickets
+MI,KKR,Abu Dhabi,Sunil Narine,"Sheikh Zayed Stadium, Abu Dhabi",KKR,Field,KKR,Wickets
+DC,SRH,Dubai,Anrich Nortje,Dubai International Cricket Stadium,SRH,Bat,DC,Wickets
+PBKS,RR,Dubai,Kartik Tyagi,Dubai International Cricket Stadium,KXIP,Field,RR,Runs
+KKR,RCB,Abu Dhabi,Varun Chakravarthy,"Sheikh Zayed Stadium, Abu Dhabi",RCB,Bat,KKR,Wickets
+CSK,MI,Dubai,Ruturaj Gaikwad,Dubai International Cricket Stadium,CSK,Bat,CSK,Runs
+PBKS,DC,Ahmedabad,Mayank Agarwal,"Narendra Modi Stadium, Motera, Ahmedabad",DC,Field,DC,Wickets
+RR,SRH,Delhi,Jos Buttler,"Arun Jaitley Stadium, Delhi",SRH,Field,RR,Runs
+MI,CSK,Delhi,Kieron Pollard,"Arun Jaitley Stadium, Delhi",MI,Field,MI,Wickets
+PBKS,RCB,Ahmedabad,Harpreet Brar,"Narendra Modi Stadium, Motera, Ahmedabad",RCB,Field,PBKS,Runs
+DC,KKR,Ahmedabad,Prithvi Shaw,"Narendra Modi Stadium, Motera, Ahmedabad",DC,Field,DC,Wickets
+MI,RR,Delhi,Quinton de Kock,"Arun Jaitley Stadium, Delhi",MI,Field,MI,Wickets
+CSK,SRH,Delhi,Ruturaj Gaikwad,"Arun Jaitley Stadium, Delhi",SRH,Bat,CSK,Wickets
+DC,RCB,Ahmedabad,AB de Villiers,"Narendra Modi Stadium, Motera, Ahmedabad",DC,Field,RCB,Wickets
+PBKS,KKR,Ahmedabad,Eoin Morgan,"Narendra Modi Stadium, Motera, Ahmedabad",KKR,Field,KKR,Wickets
+SRH,DC,Chennai,Prithvi Shaw,"MA Chidambaram Stadium, Chepauk, Chennai",DC,Bat,SRH,Wickets
+CSK,RCB,Mumbai,Ravindra Jadeja,"Wankhede Stadium, Mumbai",CSK,Bat,CSK,Runs
+RR,KKR,Mumbai,Chris Morris,"Wankhede Stadium, Mumbai",RR,Field,RR,Wickets
+PBKS,MI,Chennai,KL Rahul,"MA Chidambaram Stadium, Chepauk, Chennai",KXIP,Field,PBKS,Wickets
+RCB,RR,Mumbai,Devdutt Padikkal,"Wankhede Stadium, Mumbai",RCB,Field,RCB,Wickets
+KKR,CSK,Mumbai,Faf du Plessis,"Wankhede Stadium, Mumbai",KKR,Field,CSK,Runs
+PBKS,SRH,Chennai,Jonny Bairstow,"MA Chidambaram Stadium, Chepauk, Chennai",KXIP,Bat,SRH,Wickets
+DC,MI,Chennai,Amit Mishra,"MA Chidambaram Stadium, Chepauk, Chennai",MI,Bat,DC,Wickets
+CSK,RR,Mumbai,Moeen Ali,"Wankhede Stadium, Mumbai",RR,Field,CSK,Runs
+DC,PBKS,Mumbai,Shikhar Dhawan,"Wankhede Stadium, Mumbai",DC,Field,DC,Wickets
+RCB,KKR,Chennai,AB de Villiers,"MA Chidambaram Stadium, Chepauk, Chennai",RCB,Bat,RCB,Runs
+MI,SRH,Chennai,Kieron Pollard,"MA Chidambaram Stadium, Chepauk, Chennai",MI,Bat,MI,Runs
+PBKS,CSK,Mumbai,Deepak Chahar,"Wankhede Stadium, Mumbai",CSK,Field,CSK,Wickets
+RR,DC,Mumbai,Jaydev Unadkat,"Wankhede Stadium, Mumbai",RR,Field,RR,Wickets
+SRH,RCB,Chennai,Glenn Maxwell,"MA Chidambaram Stadium, Chepauk, Chennai",SRH,Field,RCB,Runs
+KKR,MI,Chennai,Rahul Chahar,"MA Chidambaram Stadium, Chepauk, Chennai",KKR,Field,MI,Runs
+RR,PBKS,Mumbai,Sanju Samson,"Wankhede Stadium, Mumbai",RR,Field,PBKS,Runs
+SRH,KKR,Chennai,Nitish Rana,"MA Chidambaram Stadium, Chepauk, Chennai",SRH,Field,KKR,Runs
+CSK,DC,Mumbai,Shikhar Dhawan,"Wankhede Stadium, Mumbai",DC,Field,DC,Wickets
+MI,RCB,Chennai,Harshal Patel,"MA Chidambaram Stadium, Chepauk, Chennai",RCB,Field,RCB,Wickets
