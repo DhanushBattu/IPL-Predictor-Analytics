@@ -7,6 +7,8 @@ installation is required.
 
 from __future__ import annotations
 
+import os
+import secrets
 import sqlite3
 from pathlib import Path
 from typing import Any
@@ -19,7 +21,7 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.base import BaseEstimator, TransformerMixin
 from werkzeug.security import check_password_hash, generate_password_hash
@@ -31,7 +33,8 @@ DATA_FILE = ROOT / "data" / "ipl_matches_2008_2024.csv"
 DATABASE = ROOT / "ipl_predictor.db"
 
 app = Flask(__name__, static_folder=str(BUILD_DIR), static_url_path="/static")
-app.config["SECRET_KEY"] = "change-this-local-development-secret"
+# Read the session key from the environment; fall back to a random per-run key for local use.
+app.config["SECRET_KEY"] = os.environ.get("SECRET_KEY") or secrets.token_hex(32)
 
 TEAMS = {
     "CSK": "Chennai Super Kings",
@@ -128,28 +131,45 @@ def load_match_data() -> tuple[pd.DataFrame, pd.DataFrame]:
     return raw, data
 
 
-def build_models(data: pd.DataFrame) -> tuple[dict[str, Any], LabelEncoder]:
-    """Train all selectable models once from the 1,095-match historical dataset."""
+def symmetric(data: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series]:
+    """Return features plus a binary target (1 = Team_1 won).
 
-    labels = LabelEncoder()
-    target = labels.fit_transform(data["Winner_of_Match"])
+    Every match is added twice, once with the teams swapped, so the models
+    learn nothing from which side happens to be listed first.
+    """
+    swapped = data.rename(columns={"Team_1": "Team_2", "Team_2": "Team_1"})
+    both = pd.concat([data, swapped], ignore_index=True)
+    target = (both["Winner_of_Match"] == both["Team_1"]).astype(int)
+    return both[FEATURES], target
+
+
+def build_models(data: pd.DataFrame) -> dict[str, Any]:
+    """Train all six selectable models once from the 2008–2024 match dataset."""
+    features, target = symmetric(data)
+
     def transformer() -> ColumnTransformer:
         return ColumnTransformer(
             [("categories", OneHotEncoder(handle_unknown="ignore"), FEATURES)],
             remainder="drop",
         )
     models: dict[str, Any] = {
-        "linear": Pipeline([( "features", transformer()), ("model", LinearRegression())]),
-        "logistic": Pipeline([( "features", transformer()), ("model", LogisticRegression(max_iter=2000))]),
-        "tree": Pipeline([( "features", transformer()), ("model", DecisionTreeClassifier(random_state=42))]),
+        "linear": Pipeline([("features", transformer()), ("model", LinearRegression())]),
+        "logistic": Pipeline([("features", transformer()), ("model", LogisticRegression(max_iter=2000))]),
+        "tree": Pipeline([("features", transformer()), ("model", DecisionTreeClassifier(max_depth=6, random_state=42))]),
         # GaussianNB needs a dense matrix after the categorical encoding.
-        "naive_bayes": Pipeline([( "features", transformer()), ("dense", _Dense()), ("model", GaussianNB())]),
-        "knn": Pipeline([( "features", transformer()), ("model", KNeighborsClassifier(n_neighbors=9))]),
-        "forest": Pipeline([( "features", transformer()), ("model", RandomForestClassifier(n_estimators=250, random_state=42))]),
+        "naive_bayes": Pipeline([("features", transformer()), ("dense", _Dense()), ("model", GaussianNB())]),
+        "knn": Pipeline([("features", transformer()), ("model", KNeighborsClassifier(n_neighbors=25))]),
+        "forest": Pipeline([("features", transformer()), ("model", RandomForestClassifier(n_estimators=250, min_samples_leaf=3, random_state=42))]),
     }
     for model in models.values():
-        model.fit(data[FEATURES], target)
-    return models, labels
+        model.fit(features, target)
+    return models
+
+
+def team1_wins(model_key: str, rows: pd.DataFrame) -> Any:
+    """Predict 1 when Team_1 wins. Linear Regression output is thresholded at 0.5."""
+    raw = MODELS[model_key].predict(rows)
+    return (raw >= 0.5).astype(int) if model_key == "linear" else raw.astype(int)
 
 
 class _Dense(BaseEstimator, TransformerMixin):
@@ -164,10 +184,11 @@ class _Dense(BaseEstimator, TransformerMixin):
 
 initialise_database()
 RAW_MATCHES, TRAINING_DATA = load_match_data()
-MODELS, LABELS = build_models(TRAINING_DATA)
+MODELS = build_models(TRAINING_DATA)
 
 
 def predict(form: dict[str, str]) -> str:
+    """Return the code of the predicted winner, always one of the two selected teams."""
     row = pd.DataFrame([{
         "Team_1": form["team1"],
         "Team_2": form["team2"],
@@ -175,21 +196,17 @@ def predict(form: dict[str, str]) -> str:
         "Toss_Winner": form["team1"] if form["tosswin"] == "team1" else form["team2"],
         "Toss_Decision": form["tossdecision"],
     }])
-    raw_prediction = MODELS[form["algorithm"]].predict(row)[0]
-    if form["algorithm"] == "linear":
-        raw_prediction = int(round(float(raw_prediction)))
-        raw_prediction = max(0, min(raw_prediction, len(LABELS.classes_) - 1))
-    return str(LABELS.inverse_transform([int(raw_prediction)])[0])
+    return form["team1"] if team1_wins(form["algorithm"], row)[0] == 1 else form["team2"]
 
 
 BASE = """
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>IPL Predictor</title><link rel="stylesheet" href="{{ url_for('static', filename='Selection.css') }}">
-<style>body{min-height:100vh;margin:0}.content{position:relative;top:auto;left:auto;transform:none;width:min(680px,calc(100% - 48px));margin:60px auto 80px;box-sizing:border-box}input,select{box-sizing:border-box;padding:8px;margin:4px;max-width:100%}label{display:block;margin:12px 0 3px}.message{padding:10px;border-radius:8px;background:#651c1c;margin:10px 0}.subtle{color:#e4e4e4;font-size:.9rem}.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}.footer{height:auto;min-height:28px;padding:5px 0}</style>
+<style>body{min-height:100vh;margin:0}.content{position:relative;top:auto;left:auto;transform:none;width:min(680px,calc(100% - 48px));margin:60px auto 80px;box-sizing:border-box}input,select{box-sizing:border-box;padding:8px;margin:4px;max-width:100%}label{display:block;margin:12px 0 3px}.message{padding:10px;border-radius:8px;background:#651c1c;margin:10px 0}.subtle{color:#e4e4e4;font-size:.9rem}.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}.footer{position:static;height:auto;min-height:28px;padding:8px 0}body{display:flex;flex-direction:column;background-attachment:fixed;background-color:#0c1b33}.content{flex:0 0 auto}.footer{margin-top:auto}select,input{height:auto;line-height:1.4;font-size:15px}ol{text-align:left;display:inline-block}</style>
 </head><body><main class="content"><h1><img src="{{ url_for('static', filename='assets/Batter_Logo.png') }}" id="bat_logo" alt="IPL Predictor logo"> IPL Predictor</h1>
 {% with messages = get_flashed_messages() %}{% for message in messages %}<p class="message">{{ message }}</p>{% endfor %}{% endwith %}
-{{ body|safe }}</main><footer class="footer"><div style="text-align:center">Local IPL Predictor &middot; historical data through 2021</div></footer></body></html>
+{{ body|safe }}</main><footer class="footer"><div style="text-align:center">IPL Predictor &middot; trained on 2008–2024 match data</div></footer></body></html>
 """
 
 
