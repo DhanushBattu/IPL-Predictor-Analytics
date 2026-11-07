@@ -28,7 +28,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 
 ROOT = Path(__file__).resolve().parent
-BUILD_DIR = ROOT / "v01" / "build"
+BUILD_DIR = ROOT / "static"
 DATA_FILE = ROOT / "data" / "ipl_matches_2008_2024.csv"
 DATABASE = ROOT / "ipl_predictor.db"
 

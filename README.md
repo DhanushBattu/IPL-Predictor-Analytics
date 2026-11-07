@@ -58,7 +58,7 @@ On Windows you can also double-click `run.bat`.
 app.py              Flask app: data loading, model training, routes
 evaluate.py         Cross-validation and time-based test
 data/               2008–2024 match dataset
-v01/build/          Styles and images (plus the original PHP version, kept for reference)
+static/             Stylesheet and images
 docs/               Screenshots
 ```
 
